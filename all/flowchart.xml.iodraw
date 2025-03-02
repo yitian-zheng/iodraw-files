@@ -1,0 +1,97 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="956" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="xv4a3qr1seq__kNSQc_g-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="xv4a3qr1seq__kNSQc_g-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4a3qr1seq__kNSQc_g-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="xv4a3qr1seq__kNSQc_g-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="基于目标检测算法的无人机光伏巡检" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="305" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4a3qr1seq__kNSQc_g-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xv4a3qr1seq__kNSQc_g-0" target="xv4a3qr1seq__kNSQc_g-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4a3qr1seq__kNSQc_g-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xv4a3qr1seq__kNSQc_g-0" target="xv4a3qr1seq__kNSQc_g-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4a3qr1seq__kNSQc_g-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xv4a3qr1seq__kNSQc_g-0" target="xv4a3qr1seq__kNSQc_g-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4a3qr1seq__kNSQc_g-0" value="系统总体方案设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="75" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4a3qr1seq__kNSQc_g-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xv4a3qr1seq__kNSQc_g-1" target="WIyWlLk6GJQsqaUBKTNV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4a3qr1seq__kNSQc_g-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xv4a3qr1seq__kNSQc_g-1" target="xv4a3qr1seq__kNSQc_g-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4a3qr1seq__kNSQc_g-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xv4a3qr1seq__kNSQc_g-1" target="xv4a3qr1seq__kNSQc_g-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4a3qr1seq__kNSQc_g-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xv4a3qr1seq__kNSQc_g-1" target="xv4a3qr1seq__kNSQc_g-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4a3qr1seq__kNSQc_g-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xv4a3qr1seq__kNSQc_g-1" target="xv4a3qr1seq__kNSQc_g-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4a3qr1seq__kNSQc_g-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xv4a3qr1seq__kNSQc_g-1" target="xv4a3qr1seq__kNSQc_g-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4a3qr1seq__kNSQc_g-1" value="目标检测算法的改进" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="305" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4a3qr1seq__kNSQc_g-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xv4a3qr1seq__kNSQc_g-2" target="xv4a3qr1seq__kNSQc_g-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4a3qr1seq__kNSQc_g-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xv4a3qr1seq__kNSQc_g-2" target="xv4a3qr1seq__kNSQc_g-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4a3qr1seq__kNSQc_g-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xv4a3qr1seq__kNSQc_g-2" target="xv4a3qr1seq__kNSQc_g-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4a3qr1seq__kNSQc_g-2" value="系统集成与测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4a3qr1seq__kNSQc_g-6" value="无&lt;div&gt;人&lt;/div&gt;&lt;div&gt;机&lt;/div&gt;&lt;div&gt;系&lt;/div&gt;&lt;div&gt;统&lt;/div&gt;&lt;div&gt;设&lt;/div&gt;&lt;div&gt;计&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="290" width="30" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4a3qr1seq__kNSQc_g-7" value="系&lt;div&gt;统&lt;/div&gt;&lt;div&gt;总&lt;/div&gt;&lt;div&gt;体&lt;/div&gt;&lt;div&gt;方&lt;/div&gt;&lt;div&gt;案&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="290" width="30" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4a3qr1seq__kNSQc_g-8" value="目&lt;div&gt;标&lt;/div&gt;&lt;div&gt;检&lt;/div&gt;&lt;div&gt;测&lt;/div&gt;&lt;div&gt;算&lt;/div&gt;&lt;div&gt;法&lt;/div&gt;&lt;div&gt;设&lt;/div&gt;&lt;div&gt;计&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="290" width="30" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4a3qr1seq__kNSQc_g-13" value="图&lt;div&gt;像&lt;/div&gt;&lt;div&gt;分&lt;/div&gt;&lt;div&gt;块&lt;/div&gt;&lt;div&gt;处&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="290" width="30" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4a3qr1seq__kNSQc_g-14" value="损&lt;div&gt;失&lt;/div&gt;&lt;div&gt;函&lt;/div&gt;&lt;div&gt;数&lt;/div&gt;&lt;div&gt;修&lt;/div&gt;&lt;div&gt;改&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="290" width="30" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4a3qr1seq__kNSQc_g-15" value="注&lt;div&gt;意&lt;/div&gt;&lt;div&gt;力&lt;/div&gt;&lt;div&gt;机&lt;/div&gt;&lt;div&gt;制&lt;/div&gt;&lt;div&gt;模&lt;/div&gt;&lt;div&gt;块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="290" width="30" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4a3qr1seq__kNSQc_g-16" value="特&lt;div&gt;征&lt;/div&gt;&lt;div&gt;金&lt;/div&gt;&lt;div&gt;字&lt;/div&gt;&lt;div&gt;塔&lt;/div&gt;&lt;div&gt;网&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;络&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;应&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;用&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="399" y="290" width="30" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4a3qr1seq__kNSQc_g-17" value="&lt;div&gt;检&lt;/div&gt;&lt;div&gt;测&lt;/div&gt;&lt;div&gt;头&lt;/div&gt;&lt;div&gt;结&lt;/div&gt;&lt;div&gt;构&lt;/div&gt;&lt;div&gt;优&lt;/div&gt;&lt;div&gt;化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="290" width="30" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4a3qr1seq__kNSQc_g-24" value="系&lt;div&gt;统&lt;/div&gt;&lt;div&gt;集&lt;/div&gt;&lt;div&gt;成&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="290" width="30" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4a3qr1seq__kNSQc_g-25" value="系&lt;div&gt;统&lt;/div&gt;&lt;div&gt;测&lt;/div&gt;&lt;div&gt;试&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="575" y="290" width="30" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xv4a3qr1seq__kNSQc_g-26" value="检&lt;div&gt;测&lt;/div&gt;&lt;div&gt;结&lt;/div&gt;&lt;div&gt;果&lt;/div&gt;&lt;div&gt;评&lt;/div&gt;&lt;div&gt;估&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="290" width="30" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

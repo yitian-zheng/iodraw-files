@@ -205,6 +205,18 @@
         <mxCell id="JTNME1HKziFs-weTzASM-71" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;分析问题&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="1010" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="JTNME1HKziFs-weTzASM-72" value="" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="707.5" width="280" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="JTNME1HKziFs-weTzASM-73" value="基于当前光伏行业运行维护存在问题的思考" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="720" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JTNME1HKziFs-weTzASM-74" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;基于对当今光伏巡检效率与准确性不足的思考&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="770" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JTNME1HKziFs-weTzASM-75" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;基于多模态数据融合技术局限性的思考&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="820" width="260" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

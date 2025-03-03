@@ -37,7 +37,7 @@
         <mxCell id="JTNME1HKziFs-weTzASM-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=21.17;direction=north;notch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="250" width="20" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JTNME1HKziFs-weTzASM-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="JTNME1HKziFs-weTzASM-6" value="&lt;strong style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;传感器集成&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="165" y="440" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">

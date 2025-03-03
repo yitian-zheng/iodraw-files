@@ -61,9 +61,6 @@
         <mxCell id="JTNME1HKziFs-weTzASM-9" value="" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="537.5" y="1405" width="280" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="JTNME1HKziFs-weTzASM-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTNME1HKziFs-weTzASM-10" target="JTNME1HKziFs-weTzASM-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="547.5" y="1555" width="260" height="50" as="geometry" />
         </mxCell>
@@ -138,6 +135,9 @@
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-42" value="&lt;p style=&quot;text-align: left; line-height: 120%;&quot;&gt;&lt;font face=&quot;Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot; color=&quot;#212121&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;目标检测与优化&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="527.5" y="1485" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JTNME1HKziFs-weTzASM-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTNME1HKziFs-weTzASM-43" target="JTNME1HKziFs-weTzASM-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-43" value="特征融合：采用GELAN架构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="637.5" y="1505" width="87.5" height="30" as="geometry" />

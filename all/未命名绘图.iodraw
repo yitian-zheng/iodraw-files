@@ -124,7 +124,7 @@
         <mxCell id="JTNME1HKziFs-weTzASM-42" value="&lt;p style=&quot;text-align: left; line-height: 120%;&quot;&gt;&lt;font face=&quot;Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot; color=&quot;#212121&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;目标检测与优化&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="370" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JTNME1HKziFs-weTzASM-43" value="RGB摄像头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="JTNME1HKziFs-weTzASM-43" value="采用GELAN架构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="390" width="75" height="30" as="geometry" />
         </mxCell>
       </root>

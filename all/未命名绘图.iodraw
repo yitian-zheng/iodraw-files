@@ -119,7 +119,7 @@
           <mxGeometry x="532.5" y="460" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-39" value="RGB摄像头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="590" y="585" width="75" height="30" as="geometry" />
+          <mxGeometry x="630" y="460" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

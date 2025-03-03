@@ -181,6 +181,9 @@
         <mxCell id="JTNME1HKziFs-weTzASM-63" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;提出问题&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="760" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="JTNME1HKziFs-weTzASM-64" value="" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="433.75" y="680" width="280" height="210" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

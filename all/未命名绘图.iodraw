@@ -166,10 +166,10 @@
         <mxCell id="JTNME1HKziFs-weTzASM-57" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=21.17;direction=north;notch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="850" y="250" width="20" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JTNME1HKziFs-weTzASM-58" value="研究脉络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="JTNME1HKziFs-weTzASM-58" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;研究脉络&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="580" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JTNME1HKziFs-weTzASM-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="JTNME1HKziFs-weTzASM-60" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;研究内容&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="580" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">

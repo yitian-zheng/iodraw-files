@@ -208,6 +208,9 @@
         <mxCell id="JTNME1HKziFs-weTzASM-72" value="" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="947.5" width="350" height="165" as="geometry" />
         </mxCell>
+        <mxCell id="JTNME1HKziFs-weTzASM-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTNME1HKziFs-weTzASM-73" target="JTNME1HKziFs-weTzASM-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-73" value="运维&lt;div&gt;问题&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="410" y="960" width="80" height="40" as="geometry" />
         </mxCell>

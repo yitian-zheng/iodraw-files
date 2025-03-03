@@ -113,10 +113,10 @@
           <mxGeometry x="440" y="440" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-37" value="骨干网络设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="460" width="75" height="30" as="geometry" />
+          <mxGeometry x="440" y="460" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-38" value="跨模态融合&lt;div&gt;模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="532.5" y="460" width="75" height="30" as="geometry" />
+          <mxGeometry x="600" y="460" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

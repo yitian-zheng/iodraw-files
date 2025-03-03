@@ -22,7 +22,7 @@
         <mxCell id="xv4a3qr1seq__kNSQc_g-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xv4a3qr1seq__kNSQc_g-0" target="xv4a3qr1seq__kNSQc_g-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xv4a3qr1seq__kNSQc_g-0" value="多模态" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="xv4a3qr1seq__kNSQc_g-0" value="多模态数据采集&lt;div&gt;与预处理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="80" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xv4a3qr1seq__kNSQc_g-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xv4a3qr1seq__kNSQc_g-1" target="WIyWlLk6GJQsqaUBKTNV-3" edge="1">

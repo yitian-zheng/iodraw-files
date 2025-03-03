@@ -184,8 +184,8 @@
         <mxCell id="JTNME1HKziFs-weTzASM-64" value="" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="697.5" width="280" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="JTNME1HKziFs-weTzASM-65" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;研究内容&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="460" y="710" width="80" height="40" as="geometry" />
+        <mxCell id="JTNME1HKziFs-weTzASM-65" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;1.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="710" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

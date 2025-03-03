@@ -25,6 +25,9 @@
         <mxCell id="xv4a3qr1seq__kNSQc_g-2" value="多模态目标检测&lt;div&gt;光伏巡检系统&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="530" y="190" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JTNME1HKziFs-weTzASM-0" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

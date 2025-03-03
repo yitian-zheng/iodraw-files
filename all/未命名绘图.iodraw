@@ -229,7 +229,7 @@
         <mxCell id="JTNME1HKziFs-weTzASM-76" value="人工巡检成本高，无人机&lt;div&gt;巡检准确率低&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="960" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JTNME1HKziFs-weTzASM-78" value="1.单一模态在复杂环境容易漏检。小故障难以检测&lt;div&gt;2.YOLO原始架构处理不够优秀，要优化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="JTNME1HKziFs-weTzASM-78" value="1.单一模态在复杂环境容易漏检。小故障难以检测&lt;div&gt;2.YOLO原始架构在光伏数据集表现不够优秀，需要优化架构。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="1010" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-80" value="YOLO在多模态融合面临计算冗余，推理速度慢" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">

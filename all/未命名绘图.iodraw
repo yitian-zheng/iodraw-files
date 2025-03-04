@@ -313,7 +313,7 @@
             <mxPoint x="789" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="obNjYTg9V2uFUgdSMQNP-39" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;特征级鲁棒融合&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;引入跨模态Transformer（如CFT）的自注意力机制，动态加权不同模态特征，可以根据环境实时变换。保证应对环境变化的鲁棒性。&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="obNjYTg9V2uFUgdSMQNP-39" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;多任务联合优化&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;引入跨模态Transformer（如CFT）的自注意力机制，动态加权不同模态特征，可以根据环境实时变换。保证应对环境变化的鲁棒性。&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="658.5" y="1009" width="260" height="65" as="geometry" />
         </mxCell>
       </root>

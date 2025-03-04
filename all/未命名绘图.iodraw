@@ -235,7 +235,7 @@
         <mxCell id="JTNME1HKziFs-weTzASM-179" value="1.几何与时序对齐：采用仿射变换、光流法实现多模态（RGB/IR/SAR）空间-时间同步，解决传感器视角差异与动态场景偏移问题。&lt;br&gt;2.特征级鲁棒融合：引入跨模态Transformer（如CFT）的自注意力机制，动态加权不同模态特征，抑制噪声干扰（如SAR斑点噪声、IR温度漂移）。" style="rounded=0;whiteSpace=wrap;align=left;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="631" y="450" width="399" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JTNME1HKziFs-weTzASM-180" value="1.单一模态在复杂环境容易漏检。小故障难以检测&lt;div&gt;2.YOLO原始架构在光伏数据集表现不够优秀，需要优化架构。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="JTNME1HKziFs-weTzASM-180" value="&lt;ul style=&quot;margin-top: 4px; margin-bottom: 0px; padding-left: calc(var(--ds-md-zoom)*24px); color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px;&quot;&gt;&lt;li&gt;&lt;p style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px !important; margin-left: 0px; font-size: var(--ds-md-font-size); line-height: var(--ds-md-line-height);&quot;&gt;&lt;strong&gt;高分辨率特征金字塔&lt;/strong&gt;：结合PVTv2（视觉Transformer）与ConvNeXt提取多尺度局部-全局特征，增强微小目标边缘纹理。&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin-top: 4px;&quot;&gt;&lt;p style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px !important; margin-left: 0px; font-size: var(--ds-md-font-size); line-height: var(--ds-md-line-height);&quot;&gt;&lt;strong&gt;跨模态注意力聚焦&lt;/strong&gt;：通过CBAM模块对红外热梯度与可见光纹理进行空间-通道联合增强，提升小目标显著性。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="631" y="520" width="399" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-181" value="YOLO在多模态融合面临计算冗余，推理速度慢" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -287,7 +287,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="obNjYTg9V2uFUgdSMQNP-11" value="多模态细粒度特征增强&lt;div&gt;与协同感知&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;fontSize=12;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="530" width="130" height="40" as="geometry" />
+          <mxGeometry x="470" y="530" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

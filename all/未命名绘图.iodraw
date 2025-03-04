@@ -35,7 +35,7 @@
           <mxGeometry x="728.5" y="825" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-112" value="多模态目标检测&lt;div&gt;光伏巡检系统&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1018.5" y="825" width="120" height="60" as="geometry" />
+          <mxGeometry x="1040" y="825" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-113" value="" style="whiteSpace=wrap;html=1;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="327.5" y="925" width="280" height="210" as="geometry" />
@@ -176,7 +176,7 @@
           <mxGeometry x="778.5" y="885" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-159" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=21.17;direction=north;notch=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1068.5" y="885" width="20" height="40" as="geometry" />
+          <mxGeometry x="1090" y="885" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-160" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;研究脉络&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="231" y="80" width="80" height="40" as="geometry" />

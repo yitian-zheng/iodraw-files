@@ -256,7 +256,7 @@
         <mxCell id="JTNME1HKziFs-weTzASM-187" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="251" y="650" width="40" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="obNjYTg9V2uFUgdSMQNP-2" value="&lt;ol style=&quot;padding-left: calc(var(--ds-md-zoom)*24px); color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot; start=&quot;1&quot;&gt;&lt;li&gt;&lt;p style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px !important; margin-left: 0px; font-size: var(--ds-md-font-size); line-height: var(--ds-md-line-height);&quot;&gt;&lt;strong&gt;环境受限性大&lt;/strong&gt;：单一模态（如可见光）在夜间、雨雪或强光条件下成像质量显著下降，导致漏检或误检。&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="obNjYTg9V2uFUgdSMQNP-2" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="230" width="390" height="40" as="geometry" />
         </mxCell>
         <mxCell id="obNjYTg9V2uFUgdSMQNP-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">

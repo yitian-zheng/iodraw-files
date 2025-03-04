@@ -194,7 +194,7 @@
           <mxGeometry x="231" y="262.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-165" value="" style="whiteSpace=wrap;html=1;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="330" y="200" width="720" height="165" as="geometry" />
+          <mxGeometry x="330" y="200" width="740" height="165" as="geometry" />
         </mxCell>
         <mxCell id="obNjYTg9V2uFUgdSMQNP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTNME1HKziFs-weTzASM-167" target="obNjYTg9V2uFUgdSMQNP-4">
           <mxGeometry relative="1" as="geometry" />
@@ -272,7 +272,7 @@
           <mxGeometry x="612.25" y="262.5" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="obNjYTg9V2uFUgdSMQNP-4" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;故障覆盖不全：&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: left; background-color: initial;&quot;&gt;难以同时捕捉物理遮挡（RGB）、温度异常（IR）和结构缺陷（SAR）等多类型故障特征。&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="670" y="312.5" width="360" height="40" as="geometry" />
+          <mxGeometry x="612.25" y="311.25" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="obNjYTg9V2uFUgdSMQNP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="obNjYTg9V2uFUgdSMQNP-8" target="JTNME1HKziFs-weTzASM-179">
           <mxGeometry relative="1" as="geometry" />

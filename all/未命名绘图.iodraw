@@ -289,6 +289,9 @@
         <mxCell id="obNjYTg9V2uFUgdSMQNP-11" value="多模态细粒度特征增强&lt;div&gt;与协同感知&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;fontSize=12;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="530" width="130" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="obNjYTg9V2uFUgdSMQNP-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="678.5" y="490" width="201.5" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

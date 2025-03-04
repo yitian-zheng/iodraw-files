@@ -292,8 +292,11 @@
         <mxCell id="obNjYTg9V2uFUgdSMQNP-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;技术方法&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="628.5" y="400" width="81.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="obNjYTg9V2uFUgdSMQNP-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTNME1HKziFs-weTzASM-178" target="obNjYTg9V2uFUgdSMQNP-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="obNjYTg9V2uFUgdSMQNP-15" value="多模态联合知识学习与综合决策" style="rounded=0;whiteSpace=wrap;fontSize=12;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="468.5" y="600" width="130" height="40" as="geometry" />
+          <mxGeometry x="480" y="600" width="118.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

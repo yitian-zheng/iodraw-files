@@ -262,7 +262,7 @@
         <mxCell id="obNjYTg9V2uFUgdSMQNP-2" value="&lt;span style=&quot;font-family: 微软雅黑; font-size: 15.04px; letter-spacing: 1px; background-color: rgb(255, 255, 255);&quot;&gt;现实环境要求模型能够应对开放性带来的挑战，如雨、雾、遮挡、光照差、分辨率低等，单一模态的可感知性、可靠性和鲁棒性较差&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="670" y="230" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="obNjYTg9V2uFUgdSMQNP-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="obNjYTg9V2uFUgdSMQNP-3" value="&lt;em style=&quot;box-sizing: border-box; outline: 0px; font-synthesis-style: auto; overflow-wrap: break-word; color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: 16px; font-variant-ligatures: no-common-ligatures; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;box-sizing: border-box; outline: 0px; font-weight: 700; font-synthesis-style: auto; overflow-wrap: break-word;&quot;&gt;模态之间的不一致性&lt;/span&gt;&lt;/em&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="670" y="310" width="360" height="60" as="geometry" />
         </mxCell>
       </root>

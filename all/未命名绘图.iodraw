@@ -76,7 +76,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-123" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;特征级鲁棒融合&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;引入跨模态Transformer（如CFT）的自注意力机制，动态加权不同模态特征，可以根据环境实时变换。保证应对环境变化的鲁棒性。&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="658.5" y="1192.5" width="260" height="65" as="geometry" />
+          <mxGeometry x="658.5" y="1200" width="260" height="65" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-125" value="" style="whiteSpace=wrap;html=1;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="970" y="925" width="260" height="515" as="geometry" />
@@ -299,7 +299,7 @@
           <mxGeometry x="658.5" y="1090" width="260" height="90" as="geometry" />
         </mxCell>
         <mxCell id="obNjYTg9V2uFUgdSMQNP-27" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;模型剪枝与压缩&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 微软雅黑; letter-spacing: 1px; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;由于要将多模态YOLO算法部署在无人机进行实时检测，因此要将模型进行轻量化修改。&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="658.5" y="935" width="260" height="65" as="geometry" />
+          <mxGeometry x="658.5" y="927.5" width="260" height="65" as="geometry" />
         </mxCell>
         <mxCell id="obNjYTg9V2uFUgdSMQNP-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="980" y="1160" width="240" height="50" as="geometry" />

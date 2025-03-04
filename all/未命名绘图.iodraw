@@ -301,12 +301,6 @@
         <mxCell id="obNjYTg9V2uFUgdSMQNP-27" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;模型剪枝与压缩&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 微软雅黑; letter-spacing: 1px; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;由于要将多模态YOLO算法部署在无人机进行实时检测，因此要将模型进行轻量化修改。&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="658.5" y="927.5" width="260" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="obNjYTg9V2uFUgdSMQNP-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="980" y="1160" width="240" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="obNjYTg9V2uFUgdSMQNP-33" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;实验验证&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="980" y="1000" width="240" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="obNjYTg9V2uFUgdSMQNP-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="obNjYTg9V2uFUgdSMQNP-26" target="obNjYTg9V2uFUgdSMQNP-39">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="789" y="1079" as="sourcePoint" />

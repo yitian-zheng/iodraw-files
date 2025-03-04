@@ -286,8 +286,8 @@
             <mxPoint x="631" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="obNjYTg9V2uFUgdSMQNP-11" value="多模态细粒度特征增强与协同感知" style="rounded=0;whiteSpace=wrap;fontSize=12;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="530" width="110" height="40" as="geometry" />
+        <mxCell id="obNjYTg9V2uFUgdSMQNP-11" value="多模态细粒度特征增强&lt;div&gt;与协同感知&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;fontSize=12;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="530" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

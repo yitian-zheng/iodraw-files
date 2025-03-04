@@ -81,7 +81,7 @@
         <mxCell id="JTNME1HKziFs-weTzASM-125" value="" style="whiteSpace=wrap;html=1;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="970" y="925" width="260" height="515" as="geometry" />
         </mxCell>
-        <mxCell id="JTNME1HKziFs-weTzASM-126" value="系统部署&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="JTNME1HKziFs-weTzASM-126" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;系统部署&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;&quot;&gt;将轻量化后的YOLO算法部署到无人机上。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="980" y="1257.5" width="240" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-129" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">

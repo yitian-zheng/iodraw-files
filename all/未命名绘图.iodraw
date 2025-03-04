@@ -64,7 +64,7 @@
           <mxGeometry x="340" y="990" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-120" value="" style="whiteSpace=wrap;html=1;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="648.5" y="925" width="280" height="505" as="geometry" />
+          <mxGeometry x="648.5" y="925" width="280" height="515" as="geometry" />
         </mxCell>
         <mxCell id="obNjYTg9V2uFUgdSMQNP-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTNME1HKziFs-weTzASM-121" target="obNjYTg9V2uFUgdSMQNP-25">
           <mxGeometry relative="1" as="geometry" />
@@ -76,7 +76,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-123" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;特征级鲁棒融合&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;引入跨模态Transformer（如CFT）的自注意力机制，动态加权不同模态特征，可以根据环境实时变换。保证应对环境变化的鲁棒性。&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="658.5" y="1190" width="260" height="65" as="geometry" />
+          <mxGeometry x="658.5" y="1192.5" width="260" height="65" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-125" value="" style="whiteSpace=wrap;html=1;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="970" y="925" width="260" height="505" as="geometry" />

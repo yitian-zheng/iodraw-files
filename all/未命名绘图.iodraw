@@ -226,7 +226,7 @@
         <mxCell id="JTNME1HKziFs-weTzASM-176" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;小目标敏感度低&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340.37" y="530" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JTNME1HKziFs-weTzASM-177" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTNME1HKziFs-weTzASM-178" target="JTNME1HKziFs-weTzASM-181" edge="1">
+        <mxCell id="JTNME1HKziFs-weTzASM-177" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="obNjYTg9V2uFUgdSMQNP-15" target="JTNME1HKziFs-weTzASM-181" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-178" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;故障覆盖不全&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -238,7 +238,7 @@
         <mxCell id="JTNME1HKziFs-weTzASM-180" value="1.高分辨率特征金字塔：结合PVTv2（视觉Transformer）与ConvNeXt提取多尺度局部-全局特征，增强微小目标边缘纹理。&lt;div&gt;2.跨模态注意力聚焦：通过注意力机制对红外热梯度与可见光纹理进行空间-通道联合增强，提升小目标显著性。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;align=left;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="631" y="520" width="399" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JTNME1HKziFs-weTzASM-181" value="YOLO在多模态融合面临计算冗余，推理速度慢" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="JTNME1HKziFs-weTzASM-181" value="1.&lt;ul style=&quot;margin-top: 4px; margin-bottom: 0px; padding-left: calc(var(--ds-md-zoom)*24px); color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;&lt;li&gt;&lt;p style=&quot;margin-top: 0px; margin-right: 0px; margin-bottom: 0px !important; margin-left: 0px; font-size: var(--ds-md-font-size); line-height: var(--ds-md-line-height);&quot;&gt;&lt;strong&gt;多模态联合知识学习&lt;/strong&gt;（SM3Det [1]）：无人机搭载的AI系统同时接收RGB、IR、SAR三组数据，通过动态学习率调整（DLA）策略，实现模态间的联合知识学习与互补。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="631" y="590" width="399" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-182" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;1.论文阅读&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;2.文献分析&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;3.调查了解&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -295,8 +295,14 @@
         <mxCell id="obNjYTg9V2uFUgdSMQNP-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTNME1HKziFs-weTzASM-178" target="obNjYTg9V2uFUgdSMQNP-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="obNjYTg9V2uFUgdSMQNP-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTNME1HKziFs-weTzASM-178" target="obNjYTg9V2uFUgdSMQNP-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="431" y="620" as="sourcePoint" />
+            <mxPoint x="631" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="obNjYTg9V2uFUgdSMQNP-15" value="多模态联合知识学习与综合决策" style="rounded=0;whiteSpace=wrap;fontSize=12;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="600" width="118.5" height="40" as="geometry" />
+          <mxGeometry x="480" y="600" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

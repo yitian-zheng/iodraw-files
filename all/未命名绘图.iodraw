@@ -133,15 +133,6 @@
         <mxCell id="JTNME1HKziFs-weTzASM-144" value="&lt;p style=&quot;text-align: left; line-height: 120%;&quot;&gt;&lt;font face=&quot;Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot; color=&quot;#212121&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;多模态数据异构对齐&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="658.5" y="1075" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JTNME1HKziFs-weTzASM-145" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;（RGB/IR分支采用Transfomer）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="658.5" y="1095" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JTNME1HKziFs-weTzASM-146" value="跨模态融合&lt;div&gt;模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="848.5" y="1095" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JTNME1HKziFs-weTzASM-147" value="SAR引入深度可分离卷积" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="748.5" y="1095" width="87.5" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-148" value="&lt;p style=&quot;text-align: left; line-height: 120%;&quot;&gt;&lt;font face=&quot;Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot; color=&quot;#212121&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;目标检测与优化&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="638.5" y="1005" width="140" height="20" as="geometry" />
         </mxCell>

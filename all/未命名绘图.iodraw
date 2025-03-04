@@ -59,7 +59,7 @@
           <mxGeometry x="337.5" y="935" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-120" value="" style="whiteSpace=wrap;html=1;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="648.5" y="925" width="280" height="305" as="geometry" />
+          <mxGeometry x="648.5" y="925" width="280" height="365" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-121" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;数据异构对齐&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;基于SM3Det提出的“&lt;span style=&quot;&quot;&gt;无需空间对齐的多模态联合训练&lt;/span&gt;”，通过MoE实现多模态数据的融合" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="658.5" y="1160" width="260" height="60" as="geometry" />

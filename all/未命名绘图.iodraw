@@ -70,7 +70,7 @@
           <mxGeometry x="658.5" y="1190" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-123" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;特征级鲁棒融合&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;引入跨模态Transformer（如CFT）的自注意力机制，动态加权不同模态特征，可以根据环境实时变换。保证应对环境变化的鲁棒性。&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="658.5" y="1265" width="260" height="65" as="geometry" />
+          <mxGeometry x="380" y="1440" width="260" height="65" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-125" value="" style="whiteSpace=wrap;html=1;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="970" y="925" width="260" height="425" as="geometry" />

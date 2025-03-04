@@ -54,6 +54,9 @@
         <mxCell id="JTNME1HKziFs-weTzASM-116" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="1230" width="260" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="obNjYTg9V2uFUgdSMQNP-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTNME1HKziFs-weTzASM-118" target="JTNME1HKziFs-weTzASM-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-118" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="338.5" y="1104" width="260" height="50" as="geometry" />
         </mxCell>
@@ -115,7 +118,7 @@
           <mxGeometry x="340" y="1000" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-140" value="清洗校对" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="432.5" y="1000" width="77.5" height="30" as="geometry" />
+          <mxGeometry x="430" y="1000" width="77.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-141" value="人工标注" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="522.5" y="1000" width="77.5" height="30" as="geometry" />

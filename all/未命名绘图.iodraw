@@ -200,7 +200,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-167" value="目前单一模态目标检测存在的问题" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="351" y="260" width="219" height="57.5" as="geometry" />
+          <mxGeometry x="340.5" y="253.75" width="219" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-169" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;1.调研资料&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;2.查阅论文&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;3.寻找相关数据&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1088.5" y="222.5" width="120" height="120" as="geometry" />
@@ -263,13 +263,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="obNjYTg9V2uFUgdSMQNP-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;环境受限性大：&lt;/font&gt;&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;单一模态（如可见光）在夜间、雨雪或强光条件下成像质量显著下降，导致漏检或误检。&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="670" y="212.5" width="360" height="40" as="geometry" />
+          <mxGeometry x="612.25" y="213.75" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="obNjYTg9V2uFUgdSMQNP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTNME1HKziFs-weTzASM-167" target="obNjYTg9V2uFUgdSMQNP-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="obNjYTg9V2uFUgdSMQNP-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;小目标敏感度低：&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif;&quot;&gt;对微小故障（如细微裂缝、早期热斑）特征捕捉不足，难以实现高精度识别。&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="670" y="262.5" width="360" height="40" as="geometry" />
+          <mxGeometry x="612.25" y="262.5" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="obNjYTg9V2uFUgdSMQNP-4" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;故障覆盖不全：&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: left; background-color: initial;&quot;&gt;难以同时捕捉物理遮挡（RGB）、温度异常（IR）和结构缺陷（SAR）等多类型故障特征。&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="670" y="312.5" width="360" height="40" as="geometry" />

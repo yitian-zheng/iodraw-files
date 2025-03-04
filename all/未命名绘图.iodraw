@@ -283,14 +283,17 @@
         <mxCell id="obNjYTg9V2uFUgdSMQNP-25" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;DLA动态学习率调整&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 微软雅黑; letter-spacing: 1px; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;管理不同任务和模式的学习困难，避免优化速率不同步和优化方向不一致。&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="658.5" y="1104" width="260" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="obNjYTg9V2uFUgdSMQNP-26" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;YOLO算法改进&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: 微软雅黑; letter-spacing: 1px; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;在YOLOv11的基础上，引入GELAN架构进行特征融合，引入FEM模块进行特征增强，修改卷积Conv为SPConv或RFAConv。修改损失函数、引入注意力机制等。&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="obNjYTg9V2uFUgdSMQNP-26" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;YOLO算法改进&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: 微软雅黑; letter-spacing: 1px; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;在YOLOv11的基础上，引入GELAN架构进行特征融合，引入FEM模块进行特征增强，修改卷积Conv为SPConv或RFAConv。修改损失函数。&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;结合PVTv2架构与ConvNeXt提取多尺度局部-全局特征，增强微小目标边缘纹理。&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="658.5" y="1010" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="obNjYTg9V2uFUgdSMQNP-27" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;模型剪枝与压缩&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 微软雅黑; letter-spacing: 1px; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;由于要将多模态YOLO算法部署在无人机进行实时检测，因此要将模型进行轻量化修改。&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="658.5" y="935" width="260" height="65" as="geometry" />
         </mxCell>
         <mxCell id="obNjYTg9V2uFUgdSMQNP-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="988.5" y="1084" width="240" height="50" as="geometry" />
+          <mxGeometry x="980" y="1160" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="obNjYTg9V2uFUgdSMQNP-33" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;实验验证&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="980" y="1000" width="240" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

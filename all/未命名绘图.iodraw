@@ -235,7 +235,7 @@
         <mxCell id="JTNME1HKziFs-weTzASM-179" value="1.几何与时序对齐：采用仿射变换、光流法实现多模态（RGB/IR/SAR）空间-时间同步，解决传感器视角差异与动态场景偏移问题。&lt;br&gt;2.特征级鲁棒融合：引入跨模态Transformer（如CFT）的自注意力机制，动态加权不同模态特征，根据环境实时变换。" style="rounded=0;whiteSpace=wrap;align=left;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="631" y="450" width="399" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JTNME1HKziFs-weTzASM-180" value="1.高分辨率特征金字塔：结合PVTv2（视觉Transformer）与ConvNeXt提取多尺度局部-全局特征，增强微小目标边缘纹理。跨模态注意力聚焦：通过2.CBAM模块对红外热梯度与可见光纹理进行空间-通道联合增强，提升小目标显著性。" style="rounded=0;whiteSpace=wrap;align=left;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="JTNME1HKziFs-weTzASM-180" value="1.高分辨率特征金字塔：结合PVTv2（视觉Transformer）与ConvNeXt提取多尺度局部-全局特征，增强微小目标边缘纹理。&lt;div&gt;2.跨模态注意力聚焦：通过CBAM模块对红外热梯度与可见光纹理进行空间-通道联合增强，提升小目标显著性。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;align=left;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="631" y="520" width="399" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-181" value="YOLO在多模态融合面临计算冗余，推理速度慢" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">

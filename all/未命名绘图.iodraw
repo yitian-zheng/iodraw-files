@@ -307,8 +307,11 @@
         <mxCell id="obNjYTg9V2uFUgdSMQNP-41" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;飞行测试&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;div&gt;试飞无人机，进行简单的目标检测测试，观察目标检测算法是否正常运行。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="980" y="1222.5" width="240" height="62.5" as="geometry" />
         </mxCell>
+        <mxCell id="obNjYTg9V2uFUgdSMQNP-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="obNjYTg9V2uFUgdSMQNP-42" target="obNjYTg9V2uFUgdSMQNP-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="obNjYTg9V2uFUgdSMQNP-42" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;路径规划&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;根据光伏板的分布，科学合理地规划最佳飞行路线。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="978.5" y="1103.75" width="240" height="62.5" as="geometry" />
+          <mxGeometry x="980" y="1103.75" width="240" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="obNjYTg9V2uFUgdSMQNP-43" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;实验验证&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;按照最佳飞行路线飞行，实时采集实验数据。评估系统效果。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="980" y="983.75" width="240" height="62.5" as="geometry" />

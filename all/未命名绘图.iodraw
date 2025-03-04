@@ -78,9 +78,6 @@
         <mxCell id="JTNME1HKziFs-weTzASM-126" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="980" y="1257.5" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JTNME1HKziFs-weTzASM-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTNME1HKziFs-weTzASM-126" target="JTNME1HKziFs-weTzASM-129" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTNME1HKziFs-weTzASM-129" target="JTNME1HKziFs-weTzASM-130" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -130,7 +127,7 @@
           <mxGeometry x="898.5" y="825" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-156" value="&lt;p style=&quot;text-align: left; line-height: 120%;&quot;&gt;&lt;font face=&quot;Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot; color=&quot;#212121&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;系统部署&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1030" y="1090" width="140" height="20" as="geometry" />
+          <mxGeometry x="1030" y="1272.5" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-157" value="&lt;p style=&quot;text-align: left; line-height: 120%;&quot;&gt;&lt;font face=&quot;Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot; color=&quot;#212121&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;路线规划&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1030" y="1020" width="140" height="20" as="geometry" />

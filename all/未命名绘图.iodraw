@@ -218,13 +218,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-174" value="环境受限性大" style="rounded=0;whiteSpace=wrap;fontColor=default;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="340.25" y="470" width="90.25" height="40" as="geometry" />
+          <mxGeometry x="340.37" y="460" width="90.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTNME1HKziFs-weTzASM-176" target="JTNME1HKziFs-weTzASM-180" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-176" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;小目标敏感度低&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="340.25" y="530" width="90" height="40" as="geometry" />
+          <mxGeometry x="340.37" y="530" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-177" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTNME1HKziFs-weTzASM-178" target="JTNME1HKziFs-weTzASM-181" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -236,7 +236,7 @@
           <mxGeometry x="631" y="450" width="399" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-180" value="1.单一模态在复杂环境容易漏检。小故障难以检测&lt;div&gt;2.YOLO原始架构在光伏数据集表现不够优秀，需要优化架构。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="631" y="530" width="399" height="60" as="geometry" />
+          <mxGeometry x="631" y="520" width="399" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-181" value="YOLO在多模态融合面临计算冗余，推理速度慢" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="631" y="590" width="399" height="60" as="geometry" />
@@ -278,7 +278,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="obNjYTg9V2uFUgdSMQNP-8" value="跨模态数据异构对齐&#xa;与鲁棒融合" style="rounded=0;whiteSpace=wrap;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="470" width="110" height="40" as="geometry" />
+          <mxGeometry x="480" y="460" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -217,8 +217,8 @@
         <mxCell id="JTNME1HKziFs-weTzASM-173" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTNME1HKziFs-weTzASM-174" target="JTNME1HKziFs-weTzASM-179" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTNME1HKziFs-weTzASM-174" value="运维&lt;div&gt;问题&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="418.5" y="480" width="90" height="40" as="geometry" />
+        <mxCell id="JTNME1HKziFs-weTzASM-174" value="&lt;h4 style=&quot;font-weight: var(--ds-font-weight-strong); font-size: 16.002px; line-height: var(--ds-md-line-height); margin: calc(var(--ds-md-zoom)*16px)0 calc(var(--ds-md-zoom)*12px)0; color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: start;&quot;&gt;&lt;strong&gt;环境受限性大&lt;/strong&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="358.5" y="480" width="108.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTNME1HKziFs-weTzASM-176" target="JTNME1HKziFs-weTzASM-180" edge="1">
           <mxGeometry relative="1" as="geometry" />

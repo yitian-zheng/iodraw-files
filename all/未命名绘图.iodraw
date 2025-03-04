@@ -194,7 +194,7 @@
           <mxGeometry x="231" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-165" value="" style="whiteSpace=wrap;html=1;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="330" y="217.5" width="690" height="165" as="geometry" />
+          <mxGeometry x="330" y="217.5" width="720" height="165" as="geometry" />
         </mxCell>
         <mxCell id="JTNME1HKziFs-weTzASM-167" value="目前单一模态目标检测存在的问题" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="351" y="230" width="260" height="60" as="geometry" />
@@ -260,10 +260,10 @@
           <mxGeometry x="251" y="650" width="40" height="70" as="geometry" />
         </mxCell>
         <mxCell id="obNjYTg9V2uFUgdSMQNP-2" value="&lt;span style=&quot;font-family: 微软雅黑; font-size: 15.04px; letter-spacing: 1px; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;现实环境往往开放、动态，要求模型能够应对开放性带来的挑战，如雨、雾、遮挡、光照差、分辨率低等，单一模态的可感知性、可靠性和鲁棒性较差&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="230" width="360" height="60" as="geometry" />
+          <mxGeometry x="670" y="230" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="obNjYTg9V2uFUgdSMQNP-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="310" width="320" height="60" as="geometry" />
+          <mxGeometry x="670" y="310" width="360" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

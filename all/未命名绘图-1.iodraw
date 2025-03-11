@@ -604,11 +604,8 @@
         <mxCell id="zqZGyu0RUWcuaupxGGgW-91" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;多任务联合优化&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;设计多任务头，结合SIoU损失函数与动态标签分配（SimOTA+）&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1647.5" y="1099" width="260" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="zqZGyu0RUWcuaupxGGgW-93" target="zqZGyu0RUWcuaupxGGgW-95" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-93" value="&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;飞行测试&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;试飞无人机，进行简单的目标检测测试，观察目标检测算法是否正常运行。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1959" y="1312.5" width="251" height="97.5" as="geometry" />
+          <mxGeometry x="1953.5" y="1280" width="251" height="97.5" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="zqZGyu0RUWcuaupxGGgW-95" target="zqZGyu0RUWcuaupxGGgW-96" edge="1">
           <mxGeometry relative="1" as="geometry" />

@@ -372,7 +372,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1317.5" y="1390" width="260" height="50" as="geometry" />
+          <mxGeometry x="1317.5" y="1390" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="zqZGyu0RUWcuaupxGGgW-17" target="zqZGyu0RUWcuaupxGGgW-36">
           <mxGeometry relative="1" as="geometry" />
@@ -386,8 +386,10 @@
         <mxCell id="zqZGyu0RUWcuaupxGGgW-19" value="" style="whiteSpace=wrap;html=1;dashed=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1627.5" y="1015" width="280" height="515" as="geometry" />
         </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="zqZGyu0RUWcuaupxGGgW-21" target="zqZGyu0RUWcuaupxGGgW-86">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zqZGyu0RUWcuaupxGGgW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="zqZGyu0RUWcuaupxGGgW-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1767.5" y="1440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-21" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;数据异构对齐与融合&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;基于SM3Det提出的“&lt;span style=&quot;font-size: 16px;&quot;&gt;无需空间对齐的多模态联合训练&lt;/span&gt;”，通过MoE实现多模态数据的融合" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1637.5" y="1460" width="260" height="60" as="geometry" />
@@ -408,7 +410,7 @@
           <mxGeometry x="1959" y="1430" width="240" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-27" value="RGB摄像头" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1317.5" y="1410" width="92.5" height="30" as="geometry" />
+          <mxGeometry x="1317.5" y="1410" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-28" value="&lt;p style=&quot;line-height: 120%; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: left; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#212121&quot;&gt;传感器集成&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1305" y="1390" width="92.5" height="20" as="geometry" />
@@ -597,11 +599,10 @@
         <mxCell id="zqZGyu0RUWcuaupxGGgW-84" value="多模态融合&lt;div style=&quot;font-size: 16px;&quot;&gt;目标检测&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1959" y="346.88" width="92.5" height="51.25" as="geometry" />
         </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="zqZGyu0RUWcuaupxGGgW-86" target="zqZGyu0RUWcuaupxGGgW-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-86" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;DLA动态学习率调整&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; letter-spacing: 1px; text-align: justify; background-color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;管理不同任务和模式的学习困难，避免优化速率不同步和优化方向不一致。&lt;/font&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1637.5" y="1375" width="260" height="65" as="geometry" />
+        <mxCell id="zqZGyu0RUWcuaupxGGgW-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" target="zqZGyu0RUWcuaupxGGgW-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1767.5" y="1375" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="zqZGyu0RUWcuaupxGGgW-91" target="zqZGyu0RUWcuaupxGGgW-89">
           <mxGeometry relative="1" as="geometry" />

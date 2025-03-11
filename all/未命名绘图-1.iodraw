@@ -465,7 +465,7 @@
           <mxGeometry x="1180" y="272.5" width="1040" height="200" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-46" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;提出问题&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="352.5" width="80" height="40" as="geometry" />
+          <mxGeometry x="1201" y="352.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-47" value="" style="whiteSpace=wrap;html=1;dashed=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1309" y="290" width="751" height="165" as="geometry" />
@@ -477,13 +477,13 @@
           <mxGeometry x="1319.5" y="343.75" width="219" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-50" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;1.调研资料&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;2.查阅论文&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;3.寻找相关数据&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="2067.5" y="312.5" width="120" height="120" as="geometry" />
+          <mxGeometry x="2079" y="312.5" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1180" y="490" width="1040" height="270" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-52" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;分析问题&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="620" width="80" height="40" as="geometry" />
+          <mxGeometry x="1201" y="620" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-53" value="" style="whiteSpace=wrap;html=1;dashed=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1309" y="530" width="740" height="220" as="geometry" />

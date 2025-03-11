@@ -550,7 +550,7 @@
         <mxCell id="zqZGyu0RUWcuaupxGGgW-72" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;小目标敏感度低&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="1591.25" y="352.5" width="337.75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-73" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;故障覆盖不全&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zqZGyu0RUWcuaupxGGgW-73" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;故障覆盖不全&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1591.25" y="401.25" width="337.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zqZGyu0RUWcuaupxGGgW-75" target="zqZGyu0RUWcuaupxGGgW-60">
@@ -594,7 +594,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-84" value="多模态融合&lt;div&gt;目标检测&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zqZGyu0RUWcuaupxGGgW-84" value="多模态融合&lt;div style=&quot;font-size: 18px;&quot;&gt;目标检测&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1957.5" y="353.75" width="88.5" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zqZGyu0RUWcuaupxGGgW-86" target="zqZGyu0RUWcuaupxGGgW-23">

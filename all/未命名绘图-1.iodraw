@@ -495,7 +495,7 @@
           <mxGeometry x="1470" y="541.25" width="127.5" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-57" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;小目标敏感度低&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1470" y="612.5" width="130" height="55" as="geometry" />
+          <mxGeometry x="1309" y="540" width="130" height="55" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-59" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;故障覆盖不全&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1405.37" y="685" width="114.38" height="50" as="geometry" />

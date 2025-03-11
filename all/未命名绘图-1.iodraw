@@ -408,13 +408,13 @@
           <mxGeometry x="1959" y="1430" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-27" value="RGB双目摄像头" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1272.5" y="1136.25" width="107.5" height="40" as="geometry" />
+          <mxGeometry x="1271.87" y="1440" width="107.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-28" value="&lt;p style=&quot;line-height: 120%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: left; font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;传感器集成&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1270" y="1410" width="104.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-29" value="红外摄像头" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1392.25" y="1440" width="105.5" height="40" as="geometry" />
+          <mxGeometry x="1271.87" y="1490" width="108.13" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-30" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;合成孔径雷达）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1511" y="1440" width="90" height="40" as="geometry" />

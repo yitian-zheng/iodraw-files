@@ -565,7 +565,7 @@
             <mxPoint x="1610" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-77" value="多模态细粒度特征增强&lt;div style=&quot;font-size: 16px;&quot;&gt;与协同感知&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;fontSize=16;html=1;" vertex="1" parent="1">
+        <mxCell id="zqZGyu0RUWcuaupxGGgW-77" value="改进YOLO算法" style="rounded=0;whiteSpace=wrap;fontSize=16;html=1;" vertex="1" parent="1">
           <mxGeometry x="1449" y="620" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-78" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;技术方法&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">

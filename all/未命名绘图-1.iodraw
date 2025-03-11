@@ -381,7 +381,7 @@
           <mxGeometry x="1270" y="1237.5" width="325" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1270" y="1065" width="320" height="65" as="geometry" />
+          <mxGeometry x="1272.5" y="1065" width="320" height="65" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-19" value="" style="whiteSpace=wrap;html=1;dashed=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1627.5" y="1015" width="302.5" height="515" as="geometry" />
@@ -432,7 +432,7 @@
           <mxGeometry x="1270" y="1062.5" width="104.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-35" value="视频转&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;图片&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1300" y="1090" width="90" height="40" as="geometry" />
+          <mxGeometry x="1272.5" y="1090" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-36" value="清洗校对" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1400" y="1090" width="90" height="40" as="geometry" />

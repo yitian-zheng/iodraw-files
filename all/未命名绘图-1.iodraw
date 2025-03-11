@@ -580,8 +580,8 @@
             <mxPoint x="1610" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-81" value="多模态联合知识学习与综合决策" style="rounded=0;whiteSpace=wrap;fontSize=16;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1459" y="690" width="110" height="40" as="geometry" />
+        <mxCell id="zqZGyu0RUWcuaupxGGgW-81" value="多模态综合决策" style="rounded=0;whiteSpace=wrap;fontSize=16;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1459" y="690" width="121" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="zqZGyu0RUWcuaupxGGgW-72" target="zqZGyu0RUWcuaupxGGgW-84">
           <mxGeometry relative="1" as="geometry" />

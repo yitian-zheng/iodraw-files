@@ -328,7 +328,7 @@
           <mxGeometry x="1180" y="780" width="1040" height="770" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1180" y="150" width="1040" height="80" as="geometry" />
+          <mxGeometry x="1180" y="150" width="1060" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="zqZGyu0RUWcuaupxGGgW-5" target="zqZGyu0RUWcuaupxGGgW-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -459,7 +459,7 @@
           <mxGeometry x="1630" y="170" width="117.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-44" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;研究方法&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="2077.5" y="170" width="109" height="40" as="geometry" />
+          <mxGeometry x="2080" y="170" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1180" y="272.5" width="1060" height="200" as="geometry" />

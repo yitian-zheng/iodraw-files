@@ -325,7 +325,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zqZGyu0RUWcuaupxGGgW-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1180" y="780" width="1040" height="770" as="geometry" />
+          <mxGeometry x="1180" y="780" width="1060" height="770" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1180" y="150" width="1060" height="80" as="geometry" />
@@ -480,10 +480,10 @@
           <mxGeometry x="2079" y="312.5" width="131" height="120" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1180" y="490" width="1040" height="270" as="geometry" />
+          <mxGeometry x="1180" y="490" width="1060" height="270" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-52" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;分析问题&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1201" y="620" width="80" height="40" as="geometry" />
+          <mxGeometry x="1200" y="312.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-53" value="" style="whiteSpace=wrap;html=1;dashed=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1309" y="530" width="740" height="220" as="geometry" />

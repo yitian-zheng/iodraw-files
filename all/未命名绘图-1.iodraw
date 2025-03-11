@@ -317,10 +317,10 @@
           <mxGeometry x="980" y="983.75" width="240" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="810" y="700" width="1040" height="770" as="geometry" />
+          <mxGeometry x="1430" y="690" width="1040" height="770" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="810" y="70" width="1040" height="80" as="geometry" />
+          <mxGeometry x="1430" y="60" width="1040" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8UxFYnzKRpdzsSwAGWI0-4" target="8UxFYnzKRpdzsSwAGWI0-6">
           <mxGeometry relative="1" as="geometry" />
@@ -329,13 +329,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-4" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;基于YOLO算法及多模态感知技术的无人机光伏巡检系统&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=default;strokeColor=default;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1261.25" y="735" width="272.5" height="40" as="geometry" />
+          <mxGeometry x="1881.25" y="725" width="272.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8UxFYnzKRpdzsSwAGWI0-6" target="8UxFYnzKRpdzsSwAGWI0-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-6" value="多模态目标检测&lt;div&gt;数据集&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1017.75" y="835" width="120" height="60" as="geometry" />
+          <mxGeometry x="1637.75" y="825" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8UxFYnzKRpdzsSwAGWI0-9" target="8UxFYnzKRpdzsSwAGWI0-4">
           <mxGeometry relative="1" as="geometry" />
@@ -344,183 +344,183 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-9" value="多模态目标检测&lt;div&gt;预训练模型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1337.5" y="835" width="120" height="60" as="geometry" />
+          <mxGeometry x="1957.5" y="825" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-10" value="多模态目标检测&lt;div&gt;光伏巡检系统&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1649" y="835" width="120" height="60" as="geometry" />
+          <mxGeometry x="2269" y="825" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-11" value="" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="936.5" y="935" width="282.5" height="515" as="geometry" />
+          <mxGeometry x="1556.5" y="925" width="282.5" height="515" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-12" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=21.17;direction=north;notch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1069" y="895" width="20" height="40" as="geometry" />
+          <mxGeometry x="1689" y="885" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8UxFYnzKRpdzsSwAGWI0-14" target="8UxFYnzKRpdzsSwAGWI0-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1079" y="1190" />
-              <mxPoint x="1079" y="1190" />
+              <mxPoint x="1699" y="1180" />
+              <mxPoint x="1699" y="1180" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="947.5" y="1310" width="260" height="50" as="geometry" />
+          <mxGeometry x="1567.5" y="1300" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8UxFYnzKRpdzsSwAGWI0-16" target="8UxFYnzKRpdzsSwAGWI0-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="947.5" y="1150" width="260" height="50" as="geometry" />
+          <mxGeometry x="1567.5" y="1140" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="949" y="1000" width="260" height="50" as="geometry" />
+          <mxGeometry x="1569" y="990" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-18" value="" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1257.5" y="935" width="280" height="515" as="geometry" />
+          <mxGeometry x="1877.5" y="925" width="280" height="515" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8UxFYnzKRpdzsSwAGWI0-20" target="8UxFYnzKRpdzsSwAGWI0-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-20" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;数据异构对齐与融合&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;基于SM3Det提出的“&lt;span style=&quot;&quot;&gt;无需空间对齐的多模态联合训练&lt;/span&gt;”，通过MoE实现多模态数据的融合" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1267.5" y="1380" width="260" height="60" as="geometry" />
+          <mxGeometry x="1887.5" y="1370" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8UxFYnzKRpdzsSwAGWI0-22" target="8UxFYnzKRpdzsSwAGWI0-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-22" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;特征级鲁棒融合&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;引入跨模态Transformer（如CFT）的自注意力机制，动态加权不同模态特征，可以根据环境实时变换。保证应对环境变化的鲁棒性。&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1267.5" y="1210" width="260" height="65" as="geometry" />
+          <mxGeometry x="1887.5" y="1200" width="260" height="65" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-23" value="" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1579" y="935" width="260" height="515" as="geometry" />
+          <mxGeometry x="2199" y="925" width="260" height="515" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8UxFYnzKRpdzsSwAGWI0-25" target="8UxFYnzKRpdzsSwAGWI0-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;系统部署&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;&quot;&gt;将轻量化后的YOLO算法部署到无人机上。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1589" y="1350" width="240" height="62.5" as="geometry" />
+          <mxGeometry x="2209" y="1340" width="240" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-26" value="RGB摄像头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="947.5" y="1330" width="75" height="30" as="geometry" />
+          <mxGeometry x="1567.5" y="1320" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-27" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot; color=&quot;#212121&quot;&gt;传感器集成&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="935" y="1310" width="92.5" height="20" as="geometry" />
+          <mxGeometry x="1555" y="1300" width="92.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-28" value="红外摄像头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1040" y="1330" width="77.5" height="30" as="geometry" />
+          <mxGeometry x="1660" y="1320" width="77.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-29" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;SAR（合成孔径雷达）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1137.5" y="1330" width="70" height="30" as="geometry" />
+          <mxGeometry x="1757.5" y="1320" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-30" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot; color=&quot;#212121&quot;&gt;数据采集&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="930" y="1150" width="92.5" height="20" as="geometry" />
+          <mxGeometry x="1550" y="1140" width="92.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-31" value="实地飞行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="947.5" y="1170" width="75" height="30" as="geometry" />
+          <mxGeometry x="1567.5" y="1160" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-32" value="网络搜集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1132.5" y="1170" width="75" height="30" as="geometry" />
+          <mxGeometry x="1752.5" y="1160" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-33" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot; color=&quot;#212121&quot;&gt;数据预处理&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="940.25" y="1000" width="92.5" height="20" as="geometry" />
+          <mxGeometry x="1560.25" y="990" width="92.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-34" value="视频转&lt;span style=&quot;background-color: initial;&quot;&gt;图片&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="949" y="1020" width="75" height="30" as="geometry" />
+          <mxGeometry x="1569" y="1010" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-35" value="清洗校对" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1039" y="1020" width="77.5" height="30" as="geometry" />
+          <mxGeometry x="1659" y="1010" width="77.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-36" value="人工标注" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1131.5" y="1020" width="77.5" height="30" as="geometry" />
+          <mxGeometry x="1751.5" y="1010" width="77.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-37" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;数据支撑&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1207.5" y="835" width="80" height="30" as="geometry" />
+          <mxGeometry x="1827.5" y="825" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-38" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;模型调用&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1507.5" y="835" width="80" height="30" as="geometry" />
+          <mxGeometry x="2127.5" y="825" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-39" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=21.17;direction=north;notch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1387.5" y="895" width="20" height="40" as="geometry" />
+          <mxGeometry x="2007.5" y="885" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-40" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=21.17;direction=north;notch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1699" y="895" width="20" height="40" as="geometry" />
+          <mxGeometry x="2319" y="885" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-41" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;研究脉络&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="840" y="90" width="80" height="40" as="geometry" />
+          <mxGeometry x="1460" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-42" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;研究内容&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1297.5" y="90" width="80" height="40" as="geometry" />
+          <mxGeometry x="1917.5" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-43" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;研究方法&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1707.5" y="90" width="80" height="40" as="geometry" />
+          <mxGeometry x="2327.5" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="810" y="192.5" width="1040" height="200" as="geometry" />
+          <mxGeometry x="1430" y="182.5" width="1040" height="200" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-45" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;提出问题&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="840" y="272.5" width="80" height="40" as="geometry" />
+          <mxGeometry x="1460" y="262.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-46" value="" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="939" y="210" width="740" height="165" as="geometry" />
+          <mxGeometry x="1559" y="200" width="740" height="165" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8UxFYnzKRpdzsSwAGWI0-48" target="8UxFYnzKRpdzsSwAGWI0-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-48" value="目前单一模态目标检测存在的问题" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="949.5" y="263.75" width="219" height="57.5" as="geometry" />
+          <mxGeometry x="1569.5" y="253.75" width="219" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-49" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;1.调研资料&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;2.查阅论文&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;3.寻找相关数据&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1697.5" y="232.5" width="120" height="120" as="geometry" />
+          <mxGeometry x="2317.5" y="222.5" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="810" y="410" width="1040" height="270" as="geometry" />
+          <mxGeometry x="1430" y="400" width="1040" height="270" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-51" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;分析问题&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="840" y="540" width="80" height="40" as="geometry" />
+          <mxGeometry x="1460" y="530" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-52" value="" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="939" y="450" width="740" height="220" as="geometry" />
+          <mxGeometry x="1559" y="440" width="740" height="220" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8UxFYnzKRpdzsSwAGWI0-54" target="8UxFYnzKRpdzsSwAGWI0-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-54" value="环境受限性大" style="rounded=0;whiteSpace=wrap;fontColor=default;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="949.37" y="470" width="90.25" height="40" as="geometry" />
+          <mxGeometry x="1569.37" y="460" width="90.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8UxFYnzKRpdzsSwAGWI0-76" target="8UxFYnzKRpdzsSwAGWI0-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-56" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;小目标敏感度低&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="949.37" y="540" width="90" height="40" as="geometry" />
+          <mxGeometry x="1569.37" y="530" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8UxFYnzKRpdzsSwAGWI0-80" target="8UxFYnzKRpdzsSwAGWI0-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-58" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;故障覆盖不全&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="949.5" y="610" width="90" height="40" as="geometry" />
+          <mxGeometry x="1569.5" y="600" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-59" value="1.异构对齐：SM3Det提出“无需空间对齐的多模态联合训练”，通过动态路由（MoE）实现特征级融合，解决传统方法依赖严格对齐的问题&#xa;2.特征级鲁棒融合：引入跨模态Transformer（如CFT）的自注意力机制，动态加权不同模态特征，根据环境实时变换。" style="rounded=0;align=left;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1240" y="460" width="399" height="60" as="geometry" />
+          <mxGeometry x="1860" y="450" width="399" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-60" value="1.高分辨率特征金字塔：结合PVTv2（视觉Transformer）与ConvNeXt提取多尺度局部-全局特征，增强微小目标边缘纹理。&lt;div&gt;2.跨模态注意力聚焦：通过注意力机制对红外热梯度与可见光纹理进行空间-通道联合增强，提升小目标显著性。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;align=left;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1240" y="530" width="399" height="60" as="geometry" />
+          <mxGeometry x="1860" y="520" width="399" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-61" value="1.多模态联合知识学习（SM3Det）：同时接收RGB、IR、SAR三组数据，通过动态学习率调整（DLA）策略，实现模态间的联合知识学习与互补。&lt;br&gt;2.多任务联合优化：设计分类-回归-分割多任务头，结合SIoU损失函数与动态标签分配（SimOTA+），实现多故障类型精准区分。" style="rounded=0;whiteSpace=wrap;align=left;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1240" y="600" width="399" height="60" as="geometry" />
+          <mxGeometry x="1860" y="590" width="399" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-62" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;1.论文阅读&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;2.文献分析&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;3.调查了解&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1697.5" y="500" width="120" height="120" as="geometry" />
+          <mxGeometry x="2317.5" y="490" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-63" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;解决问题&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="840" y="920" width="80" height="40" as="geometry" />
+          <mxGeometry x="1460" y="910" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-64" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="860" y="150" width="40" height="70" as="geometry" />
+          <mxGeometry x="1480" y="140" width="40" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-65" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="860" y="392.5" width="40" height="70" as="geometry" />
+          <mxGeometry x="1480" y="382.5" width="40" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-66" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="860" y="680" width="40" height="70" as="geometry" />
+          <mxGeometry x="1480" y="670" width="40" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8UxFYnzKRpdzsSwAGWI0-48" target="8UxFYnzKRpdzsSwAGWI0-69">
           <mxGeometry relative="1" as="geometry" />
@@ -528,52 +528,52 @@
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8UxFYnzKRpdzsSwAGWI0-69" target="8UxFYnzKRpdzsSwAGWI0-83">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1568" y="244" />
-              <mxPoint x="1568" y="293" />
+              <mxPoint x="2188" y="234" />
+              <mxPoint x="2188" y="283" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8UxFYnzKRpdzsSwAGWI0-69" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;环境受限性大：&lt;/font&gt;&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;单一模态（如可见光）在夜间、雨雪或强光条件下成像质量显著下降，导致漏检或误检。&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1221.25" y="223.75" width="337.75" height="40" as="geometry" />
+        <mxCell id="8UxFYnzKRpdzsSwAGWI0-69" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;环境受限性大&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1841.25" y="213.75" width="337.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8UxFYnzKRpdzsSwAGWI0-48" target="8UxFYnzKRpdzsSwAGWI0-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-71" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;小目标敏感度低：&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif;&quot;&gt;对微小故障（如细微裂缝、早期热斑）特征捕捉不足，难以实现高精度识别。&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1221.25" y="272.5" width="337.75" height="40" as="geometry" />
+          <mxGeometry x="1841.25" y="262.5" width="337.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-72" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;故障覆盖不全：&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: left; background-color: initial;&quot;&gt;难以同时捕捉物理遮挡（RGB）、温度异常（IR）和结构缺陷（SAR）等多类型故障特征。&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1221.25" y="321.25" width="337.75" height="40" as="geometry" />
+          <mxGeometry x="1841.25" y="311.25" width="337.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8UxFYnzKRpdzsSwAGWI0-74" target="8UxFYnzKRpdzsSwAGWI0-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-74" value="跨模态数据异构对齐&#xa;与鲁棒融合" style="rounded=0;whiteSpace=wrap;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1089" y="470" width="110" height="40" as="geometry" />
+          <mxGeometry x="1709" y="460" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8UxFYnzKRpdzsSwAGWI0-56" target="8UxFYnzKRpdzsSwAGWI0-76">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1039" y="560" as="sourcePoint" />
-            <mxPoint x="1240" y="560" as="targetPoint" />
+            <mxPoint x="1659" y="550" as="sourcePoint" />
+            <mxPoint x="1860" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-76" value="多模态细粒度特征增强&lt;div&gt;与协同感知&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;fontSize=12;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1079" y="540" width="130" height="40" as="geometry" />
+          <mxGeometry x="1699" y="530" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-77" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;技术方法&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1237.5" y="410" width="81.5" height="30" as="geometry" />
+          <mxGeometry x="1857.5" y="400" width="81.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8UxFYnzKRpdzsSwAGWI0-58" target="8UxFYnzKRpdzsSwAGWI0-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8UxFYnzKRpdzsSwAGWI0-58" target="8UxFYnzKRpdzsSwAGWI0-80">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1040" y="630" as="sourcePoint" />
-            <mxPoint x="1240" y="630" as="targetPoint" />
+            <mxPoint x="1660" y="620" as="sourcePoint" />
+            <mxPoint x="1860" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-80" value="多模态联合知识学习与综合决策" style="rounded=0;whiteSpace=wrap;fontSize=12;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1089" y="610" width="110" height="40" as="geometry" />
+          <mxGeometry x="1709" y="600" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8UxFYnzKRpdzsSwAGWI0-71" target="8UxFYnzKRpdzsSwAGWI0-83">
           <mxGeometry relative="1" as="geometry" />
@@ -581,52 +581,52 @@
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8UxFYnzKRpdzsSwAGWI0-72" target="8UxFYnzKRpdzsSwAGWI0-83">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1568" y="341" />
-              <mxPoint x="1568" y="293" />
+              <mxPoint x="2188" y="331" />
+              <mxPoint x="2188" y="283" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-83" value="多模态融合&lt;div&gt;目标检测&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1587.5" y="273.75" width="88.5" height="37.5" as="geometry" />
+          <mxGeometry x="2207.5" y="263.75" width="88.5" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8UxFYnzKRpdzsSwAGWI0-85" target="8UxFYnzKRpdzsSwAGWI0-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-85" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;DLA动态学习率调整&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 微软雅黑; letter-spacing: 1px; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;管理不同任务和模式的学习困难，避免优化速率不同步和优化方向不一致。&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1267.5" y="1295" width="260" height="65" as="geometry" />
+          <mxGeometry x="1887.5" y="1285" width="260" height="65" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8UxFYnzKRpdzsSwAGWI0-90" target="8UxFYnzKRpdzsSwAGWI0-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-87" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;YOLO算法改进&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: 微软雅黑; letter-spacing: 1px; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;在YOLOv11的基础上，引入GELAN架构进行特征融合，引入FEM模块进行特征增强，修改卷积Conv为SPConv或RFAConv。&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;结合PVTv2架构与ConvNeXt提取多尺度局部-全局特征，增强微小目标边缘纹理。&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1267.5" y="1100" width="260" height="90" as="geometry" />
+          <mxGeometry x="1887.5" y="1090" width="260" height="90" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-88" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;模型剪枝与压缩&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: 微软雅黑; letter-spacing: 1px; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;由于要将多模态YOLO算法部署在无人机进行实时检测，因此要将模型进行轻量化修改。&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1267.5" y="937.5" width="260" height="65" as="geometry" />
+          <mxGeometry x="1887.5" y="927.5" width="260" height="65" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8UxFYnzKRpdzsSwAGWI0-87" target="8UxFYnzKRpdzsSwAGWI0-90">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1398" y="1089" as="sourcePoint" />
-            <mxPoint x="1398" y="1010" as="targetPoint" />
+            <mxPoint x="2018" y="1079" as="sourcePoint" />
+            <mxPoint x="2018" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-90" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;多任务联合优化&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;设计分类-回归-分割多任务头，结合SIoU损失函数与动态标签分配（SimOTA+），实现多故障类型精准区分。&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1267.5" y="1019" width="260" height="65" as="geometry" />
+          <mxGeometry x="1887.5" y="1009" width="260" height="65" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8UxFYnzKRpdzsSwAGWI0-92" target="8UxFYnzKRpdzsSwAGWI0-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-92" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;飞行测试&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;div&gt;试飞无人机，进行简单的目标检测测试，观察目标检测算法是否正常运行。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1589" y="1232.5" width="240" height="62.5" as="geometry" />
+          <mxGeometry x="2209" y="1222.5" width="240" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8UxFYnzKRpdzsSwAGWI0-94" target="8UxFYnzKRpdzsSwAGWI0-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-94" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;路径规划&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;根据光伏板的分布，科学合理地规划最佳飞行路线。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1589" y="1113.75" width="240" height="62.5" as="geometry" />
+          <mxGeometry x="2209" y="1103.75" width="240" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="8UxFYnzKRpdzsSwAGWI0-95" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;实验验证&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;按照最佳飞行路线飞行，实时采集实验数据。评估系统效果。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1589" y="993.75" width="240" height="62.5" as="geometry" />
+          <mxGeometry x="2209" y="983.75" width="240" height="62.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -453,10 +453,10 @@
           <mxGeometry x="2069" y="975" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-42" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;研究脉络&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="2079" y="90" width="138.5" height="40" as="geometry" />
+          <mxGeometry x="2079" y="90" width="131" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-43" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;研究内容&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1630" y="170" width="117.5" height="40" as="geometry" />
+          <mxGeometry x="1612.75" y="170" width="132.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-44" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;研究方法&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="2080" y="170" width="130" height="40" as="geometry" />

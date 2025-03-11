@@ -477,7 +477,7 @@
           <mxGeometry x="1390" y="343.76" width="140.5" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-50" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;1.调研资料&lt;/font&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;2.查阅论文&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;3.寻找相关数据&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="2079" y="312.5" width="141" height="120" as="geometry" />
+          <mxGeometry x="2089" y="312.5" width="141" height="120" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1180" y="490" width="1060" height="270" as="geometry" />
@@ -527,7 +527,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-70" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;环境受限性大&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontStyle=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="1631.25" y="300" width="259" height="40" as="geometry" />
+          <mxGeometry x="1631.25" y="300" width="238.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="zqZGyu0RUWcuaupxGGgW-49" target="zqZGyu0RUWcuaupxGGgW-72" edge="1">
           <mxGeometry relative="1" as="geometry" />

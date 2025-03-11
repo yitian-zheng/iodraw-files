@@ -465,7 +465,7 @@
           <mxGeometry x="1180" y="272.5" width="1060" height="200" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-46" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;提出问题&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1191.5" y="340" width="108.5" height="52.5" as="geometry" />
+          <mxGeometry x="1191.5" y="340" width="138.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-47" value="" style="whiteSpace=wrap;html=1;dashed=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1360" y="290" width="700" height="165" as="geometry" />

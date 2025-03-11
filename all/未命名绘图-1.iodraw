@@ -352,10 +352,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-10" value="多模态目标检测&lt;div style=&quot;font-size: 20px;&quot;&gt;预训练模型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1707.5" y="915" width="120" height="60" as="geometry" />
+          <mxGeometry x="1696.25" y="915" width="142.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-11" value="多模态目标检测&lt;div style=&quot;font-size: 20px;&quot;&gt;光伏巡检系统&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="2019" y="915" width="120" height="60" as="geometry" />
+          <mxGeometry x="2010" y="915" width="151" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-12" value="" style="whiteSpace=wrap;html=1;dashed=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1290" y="1015" width="320" height="515" as="geometry" />

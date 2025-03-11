@@ -506,7 +506,7 @@
         <mxCell id="zqZGyu0RUWcuaupxGGgW-59" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;故障覆盖不全&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1319.5" y="690" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-60" value="1.异构对齐：SM3Det提出“无需空间对齐的多模态联合训练”，通过动态路由（MoE）实现特征级融合，解决传统方法依赖严格对齐的问题&#xa;2.特征级鲁棒融合：引入跨模态Transformer（如CFT）的自注意力机制，动态加权不同模态特征，根据环境实时变换。" style="rounded=0;align=left;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="zqZGyu0RUWcuaupxGGgW-60" value="引入跨模态Transformer（如CFT）的自注意力机制，动态加权不同模态特征，根据环境实时变换。" style="rounded=0;align=left;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1610" y="540" width="399" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-61" value="1.高分辨率特征金字塔：结合PVTv2（视觉Transformer）与ConvNeXt提取多尺度局部-全局特征，增强微小目标边缘纹理。&lt;div style=&quot;font-size: 16px;&quot;&gt;2.跨模态注意力聚焦：通过注意力机制对红外热梯度与可见光纹理进行空间-通道联合增强，提升小目标显著性。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;align=left;html=1;fontSize=16;" vertex="1" parent="1">
@@ -581,7 +581,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-81" value="多模态综合决策" style="rounded=0;whiteSpace=wrap;fontSize=16;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1459" y="690" width="121" height="40" as="geometry" />
+          <mxGeometry x="1449" y="690" width="131" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="zqZGyu0RUWcuaupxGGgW-72" target="zqZGyu0RUWcuaupxGGgW-84">
           <mxGeometry relative="1" as="geometry" />

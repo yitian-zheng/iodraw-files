@@ -491,7 +491,7 @@
         <mxCell id="zqZGyu0RUWcuaupxGGgW-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;" parent="1" source="zqZGyu0RUWcuaupxGGgW-55" target="zqZGyu0RUWcuaupxGGgW-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-55" value="环境受限性大" style="rounded=0;whiteSpace=wrap;fontColor=default;fontSize=19;" parent="1" vertex="1">
+        <mxCell id="zqZGyu0RUWcuaupxGGgW-55" value="环境受限性大" style="rounded=0;whiteSpace=wrap;fontColor=default;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1404.5" y="541.25" width="114.63" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-57" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;小目标敏感度低&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
@@ -588,7 +588,7 @@
         <mxCell id="zqZGyu0RUWcuaupxGGgW-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="zqZGyu0RUWcuaupxGGgW-91" target="zqZGyu0RUWcuaupxGGgW-89" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-88" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;YOLO算法改进&lt;/b&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; letter-spacing: 1px; text-align: justify; background-color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;在YOLOv11的基础上，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;修改卷积为DWRSeg优化特征提取，&lt;/span&gt;&lt;span style=&quot;font-family: 微软雅黑; letter-spacing: 1px; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;引入GELAN、FEM优化特征融合。&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="zqZGyu0RUWcuaupxGGgW-88" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;YOLO算法改进&lt;/b&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; letter-spacing: 1px; text-align: justify; background-color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;在YOLOv11的基础上，&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;修改卷积为DWRSeg优化特征提取，&lt;/span&gt;&lt;span style=&quot;font-family: 微软雅黑; letter-spacing: 1px; text-align: justify; background-color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;引入GELAN、FEM优化特征融合。&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1637.5" y="1180" width="260" height="90" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-89" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;模型剪枝与压缩&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; letter-spacing: 1px; text-align: justify; background-color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;将模型进行轻量化修改&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;" parent="1" vertex="1">

@@ -509,7 +509,7 @@
         <mxCell id="zqZGyu0RUWcuaupxGGgW-60" value="引入跨模态Transformer（如CFT）的自注意力机制，动态加权不同模态特征，根据环境实时变换。" style="rounded=0;align=left;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1610" y="540" width="399" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-61" value="1.高分辨率特征金字塔：结合PVTv2（视觉Transformer）与ConvNeXt提取多尺度局部-全局特征，增强微小目标边缘纹理。&lt;div style=&quot;font-size: 16px;&quot;&gt;2.跨模态注意力聚焦：通过注意力机制对红外热梯度与可见光纹理进行空间-通道联合增强，提升小目标显著性。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;align=left;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="zqZGyu0RUWcuaupxGGgW-61" value="" style="rounded=0;whiteSpace=wrap;align=left;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1610" y="610" width="399" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-62" value="1.多模态联合知识学习（SM3Det）：同时接收RGB、IR、SAR三组数据，通过动态学习率调整（DLA）策略，实现模态间的联合知识学习与互补。&lt;br style=&quot;font-size: 16px;&quot;&gt;2.多任务联合优化：设计分类-回归-分割多任务头，结合SIoU损失函数与动态标签分配（SimOTA+），实现多故障类型精准区分。" style="rounded=0;whiteSpace=wrap;align=left;html=1;fontSize=16;" vertex="1" parent="1">

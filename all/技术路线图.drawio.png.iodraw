@@ -296,7 +296,7 @@
           <mxGeometry x="910" y="738.28" width="251" height="96.25" as="geometry" />
         </mxCell>
         <mxCell id="GWbKS88yNE137YJLSkdW-1" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;飞行控制模块&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;实现无人机的飞行控制、导航等功能&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1908.25" y="1430" width="271.75" height="70" as="geometry" />
+          <mxGeometry x="1908.25" y="1430" width="291.75" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GWbKS88yNE137YJLSkdW-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;软件算法&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1719.38" y="980" width="90" height="30" as="geometry" />

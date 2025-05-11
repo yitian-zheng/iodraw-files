@@ -117,7 +117,7 @@
           <mxGeometry x="1332" y="1090" width="88" height="39" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-37" value="人工标注" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1450" y="1089" width="100" height="39" as="geometry" />
+          <mxGeometry x="1432.74" y="1090" width="90" height="38" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-38" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;数据支撑&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1490" y="910" width="100" height="40" as="geometry" />

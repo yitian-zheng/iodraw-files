@@ -302,10 +302,10 @@
           <mxGeometry x="1719.38" y="980" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GWbKS88yNE137YJLSkdW-4" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;环境感知模块&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;RGB图像:Intel D435i双目深度相机&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;IR图像：Tiny1-C长波红外微型热成像&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;SAR图像：轻量化合成孔径雷达&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1905" y="1290" width="291.88" height="95" as="geometry" />
+          <mxGeometry x="1904.06" y="1280" width="291.88" height="95" as="geometry" />
         </mxCell>
         <mxCell id="GWbKS88yNE137YJLSkdW-5" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;定位模块&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;实现无人机的定位，确保准确飞往目标位置。&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1908.25" y="1169" width="283.5" height="70" as="geometry" />
+          <mxGeometry x="1908.25" y="1164" width="283.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GWbKS88yNE137YJLSkdW-6" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;处理器模块&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Jetson Orin NX用于部署深度学习算法并进行快速图像处理&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1908.25" y="1054" width="283.5" height="70" as="geometry" />

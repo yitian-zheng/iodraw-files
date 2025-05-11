@@ -220,7 +220,7 @@
           <mxGeometry x="1630" y="401.25" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-75" value="跨模态数据融合" style="rounded=0;whiteSpace=wrap;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1773.75" y="545" width="156.25" height="50" as="geometry" />
+          <mxGeometry x="1792.75" y="545" width="156.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="zqZGyu0RUWcuaupxGGgW-57" target="zqZGyu0RUWcuaupxGGgW-77" edge="1">
           <mxGeometry relative="1" as="geometry">

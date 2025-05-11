@@ -52,7 +52,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1222.37" y="1400" width="330" height="80" as="geometry" />
+          <mxGeometry x="1220" y="1400" width="332.37" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tpcs-MJEtH2TmGk_thuI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" parent="1" source="zqZGyu0RUWcuaupxGGgW-17" target="zqZGyu0RUWcuaupxGGgW-18" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -120,7 +120,7 @@
           <mxGeometry x="1342.3700000000001" y="1089" width="90.37" height="39" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-37" value="人工标注" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1459" y="1089" width="100" height="39" as="geometry" />
+          <mxGeometry x="1450" y="1089" width="100" height="39" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-38" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;数据支撑&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1567.5" y="910" width="100" height="40" as="geometry" />

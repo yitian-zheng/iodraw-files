@@ -297,7 +297,7 @@
           <mxGeometry x="1959" y="1164" width="251" height="96.25" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-96" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;实验验证&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;按照最佳飞行路线飞行，实时采集实验数据。评估系统效果。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1959" y="1040" width="251" height="96.25" as="geometry" />
+          <mxGeometry x="2260" y="881.88" width="251" height="96.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

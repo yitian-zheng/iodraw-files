@@ -96,7 +96,7 @@
           <mxGeometry x="1335.75" y="1440" width="74.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-30" value="SAR" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1480" y="1440" width="72.37" height="40" as="geometry" />
+          <mxGeometry x="1432.74" y="1440" width="89.06" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-31" value="&lt;p style=&quot;line-height: 120%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: left; font-size: 20px;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;数据采集&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#0d0d0d;" parent="1" vertex="1">
           <mxGeometry x="1220" y="1226.25" width="92.5" height="26.25" as="geometry" />

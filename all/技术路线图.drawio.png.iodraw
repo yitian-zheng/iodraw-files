@@ -79,7 +79,7 @@
           <mxGeometry x="1647.5" y="1290" width="260" height="65" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-24" value="" style="whiteSpace=wrap;html=1;dashed=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1949" y="1015" width="271" height="525" as="geometry" />
+          <mxGeometry x="1949" y="1015" width="291" height="525" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-26" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;系统部署&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;将轻量化后的YOLO算法部署到无人机上。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="850" y="1252.5" width="251" height="70" as="geometry" />
@@ -306,7 +306,7 @@
           <mxGeometry x="1949" y="1098.13" width="283.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GWbKS88yNE137YJLSkdW-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;硬件支撑&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2110" y="980" width="90" height="30" as="geometry" />
+          <mxGeometry x="2089" y="980" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

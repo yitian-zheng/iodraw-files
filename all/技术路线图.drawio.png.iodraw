@@ -70,7 +70,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-21" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;数据异构对齐与融合&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;SM3Det网络实现多模态的数据融合" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1647.5" y="1460" width="262.5" height="60" as="geometry" />
+          <mxGeometry x="1646.25" y="1470" width="262.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="zqZGyu0RUWcuaupxGGgW-23" target="zqZGyu0RUWcuaupxGGgW-88" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -297,7 +297,7 @@
           <mxGeometry x="1959" y="1164" width="251" height="96.25" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-96" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;实验验证&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;按照最佳飞行路线飞行，实时采集实验数据。评估系统效果。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1959" y="1040" width="240" height="96.25" as="geometry" />
+          <mxGeometry x="1959" y="1040" width="251" height="96.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

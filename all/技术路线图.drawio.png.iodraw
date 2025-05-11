@@ -31,7 +31,7 @@
         <mxCell id="zqZGyu0RUWcuaupxGGgW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="zqZGyu0RUWcuaupxGGgW-10" target="zqZGyu0RUWcuaupxGGgW-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-10" value="多模态目标检测&lt;div style=&quot;font-size: 20px;&quot;&gt;预训练模型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="zqZGyu0RUWcuaupxGGgW-10" value="多模态目标检测&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;预训练模型&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1696.25" y="915" width="142.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-11" value="多模态目标检测&lt;div style=&quot;font-size: 20px;&quot;&gt;光伏巡检系统&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
@@ -292,9 +292,6 @@
         </mxCell>
         <mxCell id="GWbKS88yNE137YJLSkdW-1" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;数据异构对齐与融合&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;SM3Det网络实现多模态的数据融合" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1959" y="1470" width="262.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GWbKS88yNE137YJLSkdW-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;软件算法&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1777.5" y="890" width="77.75" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

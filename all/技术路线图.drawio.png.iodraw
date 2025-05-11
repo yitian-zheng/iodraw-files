@@ -293,8 +293,8 @@
         <mxCell id="GWbKS88yNE137YJLSkdW-1" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;数据异构对齐与融合&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;SM3Det网络实现多模态的数据融合" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1959" y="1470" width="262.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GWbKS88yNE137YJLSkdW-2" value="软件" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1776.25" y="890" width="62.5" height="25" as="geometry" />
+        <mxCell id="GWbKS88yNE137YJLSkdW-2" value="软件算法" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1776.25" y="890" width="73.75" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

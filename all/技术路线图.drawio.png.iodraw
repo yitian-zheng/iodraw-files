@@ -169,13 +169,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-55" value="环境受限性大" style="rounded=0;whiteSpace=wrap;fontColor=default;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1470" y="541.25" width="150" height="57.5" as="geometry" />
+          <mxGeometry x="1489.68" y="541.25" width="150" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-57" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;小目标敏感度低&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1470" y="608.75" width="150" height="58.75" as="geometry" />
+          <mxGeometry x="1494.38" y="608.13" width="150" height="58.75" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-59" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;故障覆盖不全&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1470" y="678.28" width="150" height="60" as="geometry" />
+          <mxGeometry x="1494.38" y="678.28" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-63" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1.数学建模法&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;2.文献分析法&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;3.实地调研法&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;4.访谈法&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="2180.75" y="568.75" width="137.5" height="127.5" as="geometry" />
@@ -241,7 +241,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-81" value="多模态综合决策" style="rounded=0;whiteSpace=wrap;fontSize=20;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1792.75" y="683.28" width="156.25" height="50" as="geometry" />
+          <mxGeometry x="1850" y="683.28" width="156.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="zqZGyu0RUWcuaupxGGgW-72" target="zqZGyu0RUWcuaupxGGgW-84" edge="1">
           <mxGeometry relative="1" as="geometry" />

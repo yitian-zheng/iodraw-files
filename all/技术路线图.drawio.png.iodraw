@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-10" value="多模态目标检测&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;预训练模型&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="1620.63" y="915" width="142.5" height="60" as="geometry" />
+          <mxGeometry x="1629.38" y="915" width="142.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-11" value="多模态目标检测&lt;div style=&quot;font-size: 20px;&quot;&gt;光伏巡检系统&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1921" y="915" width="151" height="60" as="geometry" />
@@ -127,11 +127,8 @@
         <mxCell id="zqZGyu0RUWcuaupxGGgW-39" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;模型调用&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1805.13" y="910" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uSUBSgMzFw0r4uVg0NpX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=18.83;exitDy=15;exitPerimeter=0;" edge="1" parent="1" source="zqZGyu0RUWcuaupxGGgW-40" target="GWbKS88yNE137YJLSkdW-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-40" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=21.17;direction=north;notch=0;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1684.38" y="975" width="20" height="40" as="geometry" />
+          <mxGeometry x="1691.88" y="975" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-41" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=21.17;direction=north;notch=0;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1986.5" y="975" width="20" height="40" as="geometry" />

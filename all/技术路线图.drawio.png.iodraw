@@ -70,7 +70,7 @@
         <mxCell id="zqZGyu0RUWcuaupxGGgW-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1220" y="1049" width="300" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-19" value="" style="whiteSpace=wrap;html=1;dashed=1;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="zqZGyu0RUWcuaupxGGgW-19" value="" style="whiteSpace=wrap;html=1;dashed=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1560" y="1015" width="280" height="525" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="zqZGyu0RUWcuaupxGGgW-21" target="zqZGyu0RUWcuaupxGGgW-86" edge="1">
@@ -85,40 +85,40 @@
         <mxCell id="zqZGyu0RUWcuaupxGGgW-23" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;特征级鲁棒融合&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;引入CFT模块，动态加权不同模态特征，根据环境实时变换。&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1571.88" y="1290" width="260" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-24" value="" style="whiteSpace=wrap;html=1;dashed=1;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="zqZGyu0RUWcuaupxGGgW-24" value="" style="whiteSpace=wrap;html=1;dashed=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1860" y="1015" width="300" height="525" as="geometry" />
         </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-27" value="RGB" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+        <mxCell id="zqZGyu0RUWcuaupxGGgW-27" value="RGB" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1220.94" y="1440" width="89.06" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-28" value="&lt;p style=&quot;line-height: 120%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: left; font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;传感器集成&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1220" y="1400" width="104.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-29" value="IR" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+        <mxCell id="zqZGyu0RUWcuaupxGGgW-29" value="IR" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1335.75" y="1440" width="74.25" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-30" value="SAR" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+        <mxCell id="zqZGyu0RUWcuaupxGGgW-30" value="SAR" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1432.74" y="1440" width="87.26" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-31" value="&lt;p style=&quot;line-height: 120%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: left; font-size: 20px;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;数据采集&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#0d0d0d;" parent="1" vertex="1">
           <mxGeometry x="1220" y="1226.25" width="92.5" height="26.25" as="geometry" />
         </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-32" value="实地飞行" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+        <mxCell id="zqZGyu0RUWcuaupxGGgW-32" value="实地飞行" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1220.94" y="1264" width="89.06" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-33" value="网络搜集" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+        <mxCell id="zqZGyu0RUWcuaupxGGgW-33" value="网络搜集" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1430.0000000000002" y="1264" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-34" value="&lt;p style=&quot;line-height: 120%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: left; font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;数据预处理&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1220" y="1052" width="104.75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-35" value="视频转图" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+        <mxCell id="zqZGyu0RUWcuaupxGGgW-35" value="视频转图" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1220" y="1090" width="90" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-36" value="清洗校对" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+        <mxCell id="zqZGyu0RUWcuaupxGGgW-36" value="清洗校对" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1326" y="1089" width="88" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-37" value="人工标注" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+        <mxCell id="zqZGyu0RUWcuaupxGGgW-37" value="人工标注" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1430" y="1090" width="90" height="38" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-38" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;数据支撑&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">

@@ -154,7 +154,7 @@
         <mxCell id="zqZGyu0RUWcuaupxGGgW-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="zqZGyu0RUWcuaupxGGgW-49" target="zqZGyu0RUWcuaupxGGgW-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-49" value="单模态目标检测的问题" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="zqZGyu0RUWcuaupxGGgW-49" value="单模态目标检测的问题" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1390" y="343.76" width="140.5" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-50" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;1.调研资料&lt;/font&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;2.查阅论文&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;3.寻找数据&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -214,10 +214,10 @@
         <mxCell id="zqZGyu0RUWcuaupxGGgW-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="zqZGyu0RUWcuaupxGGgW-49" target="zqZGyu0RUWcuaupxGGgW-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-72" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;小目标敏感度低&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#b85450;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fillColor=#f8cecc;fontStyle=0;" parent="1" vertex="1">
+        <mxCell id="zqZGyu0RUWcuaupxGGgW-72" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;小目标敏感度低&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#d6b656;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fillColor=#fff2cc;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="1644.38" y="352.5" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-73" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;故障覆盖不全&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="zqZGyu0RUWcuaupxGGgW-73" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;故障覆盖不全&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1644.38" y="401.26" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-75" value="跨模态数据融合" style="rounded=0;whiteSpace=wrap;fontSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">

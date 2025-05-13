@@ -31,10 +31,10 @@
         <mxCell id="zqZGyu0RUWcuaupxGGgW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="zqZGyu0RUWcuaupxGGgW-10" target="zqZGyu0RUWcuaupxGGgW-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-10" value="多模态目标检测&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;预训练模型&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="zqZGyu0RUWcuaupxGGgW-10" value="多模态目标检测&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;预训练模型&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1620.63" y="915" width="142.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-11" value="多模态目标检测&lt;div style=&quot;font-size: 20px;&quot;&gt;光伏巡检系统&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="zqZGyu0RUWcuaupxGGgW-11" value="多模态目标检测&lt;div style=&quot;font-size: 20px;&quot;&gt;光伏巡检系统&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1921" y="915" width="151" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-12" value="" style="whiteSpace=wrap;html=1;dashed=1;fontSize=20;" parent="1" vertex="1">

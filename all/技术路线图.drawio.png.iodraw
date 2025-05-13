@@ -22,7 +22,7 @@
         <mxCell id="zqZGyu0RUWcuaupxGGgW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="zqZGyu0RUWcuaupxGGgW-7" target="zqZGyu0RUWcuaupxGGgW-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-7" value="多模态目标检测&lt;div style=&quot;font-size: 20px;&quot;&gt;数据集&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="zqZGyu0RUWcuaupxGGgW-7" value="多模态目标检测&lt;div style=&quot;font-size: 20px;&quot;&gt;数据集&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1315.06" y="915" width="142.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=none;endFill=0;fontSize=20;" parent="1" source="zqZGyu0RUWcuaupxGGgW-10" target="zqZGyu0RUWcuaupxGGgW-5" edge="1">

@@ -172,10 +172,10 @@
         <mxCell id="zqZGyu0RUWcuaupxGGgW-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;" parent="1" source="zqZGyu0RUWcuaupxGGgW-55" target="zqZGyu0RUWcuaupxGGgW-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-55" value="环境受限性大" style="rounded=0;whiteSpace=wrap;fontColor=default;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="zqZGyu0RUWcuaupxGGgW-55" value="环境受限性大" style="rounded=0;whiteSpace=wrap;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1495" y="541.25" width="150" height="57.5" as="geometry" />
         </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-57" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;小目标敏感度低&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="zqZGyu0RUWcuaupxGGgW-57" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;小目标敏感度低&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1494.38" y="608.13" width="150" height="58.75" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-59" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;故障覆盖不全&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
@@ -258,7 +258,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-84" value="多模态融合&lt;div style=&quot;font-size: 20px;&quot;&gt;目标检测&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="zqZGyu0RUWcuaupxGGgW-84" value="多模态融合&lt;div style=&quot;font-size: 20px;&quot;&gt;目标检测&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1972.5" y="346.88" width="111.5" height="51.25" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="zqZGyu0RUWcuaupxGGgW-86" target="zqZGyu0RUWcuaupxGGgW-23" edge="1">

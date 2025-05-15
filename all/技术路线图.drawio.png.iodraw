@@ -77,7 +77,7 @@
           <mxGeometry x="1570.63" y="1470" width="262.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-23" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;特征级鲁棒融合&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;引入CFT模块，动态加权不同模态特征，根据环境实时变换。&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1570.63" y="1375" width="263.13" height="65" as="geometry" />
+          <mxGeometry x="1570.63" y="1382.5" width="263.13" height="65" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-24" value="" style="whiteSpace=wrap;html=1;dashed=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1860" y="1015" width="300" height="525" as="geometry" />
@@ -292,7 +292,7 @@
           <mxGeometry x="2179" y="910" width="200" height="495" as="geometry" />
         </mxCell>
         <mxCell id="7p6c4NWzIdbMdXv2p69n-1" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;多任务学习&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;强化小目标检测能力，集成自适应多模态图像预处理与去噪算法&lt;/span&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1141.13" y="1610" width="262.5" height="75" as="geometry" />
+          <mxGeometry x="1569.38" y="1089" width="262.5" height="75" as="geometry" />
         </mxCell>
         <mxCell id="7p6c4NWzIdbMdXv2p69n-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;多任务联合优化&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;设计多任务头，结合SIoU损失函数与动态标签分配（SimOTA+）&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1570" y="1170" width="260" height="65" as="geometry" />

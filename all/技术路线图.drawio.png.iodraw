@@ -74,7 +74,7 @@
           <mxGeometry x="1560" y="1015" width="280" height="525" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-21" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;数据异构对齐与融合&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;SM3Det网络实现多模态的数据融合" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1570.63" y="1470" width="262.5" height="60" as="geometry" />
+          <mxGeometry x="1569.38" y="1470" width="262.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-23" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;特征级鲁棒融合&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;引入CFT模块，动态加权不同模态特征，根据环境实时变换。&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1568.44" y="1382.5" width="263.13" height="65" as="geometry" />

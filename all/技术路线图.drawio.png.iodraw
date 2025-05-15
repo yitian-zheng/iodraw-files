@@ -73,9 +73,9 @@
         <mxCell id="zqZGyu0RUWcuaupxGGgW-19" value="" style="whiteSpace=wrap;html=1;dashed=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1560" y="1015" width="280" height="525" as="geometry" />
         </mxCell>
-        <mxCell id="zqZGyu0RUWcuaupxGGgW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="zqZGyu0RUWcuaupxGGgW-21" target="7p6c4NWzIdbMdXv2p69n-2" edge="1">
+        <mxCell id="zqZGyu0RUWcuaupxGGgW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="zqZGyu0RUWcuaupxGGgW-21" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1700" y="1452.5" as="targetPoint" />
+            <mxPoint x="1710" y="1447.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zqZGyu0RUWcuaupxGGgW-21" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;数据异构对齐与融合&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;SM3Det网络实现多模态的数据融合" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -313,11 +313,13 @@
         <mxCell id="7p6c4NWzIdbMdXv2p69n-1" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;多任务学习&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;强化小目标检测能力，集成自适应多模态图像预处理与去噪算法&lt;/span&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1141.13" y="1610" width="262.5" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="7p6c4NWzIdbMdXv2p69n-2" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;多任务联合优化&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;设计多任务头，结合SIoU损失函数与动态标签分配（SimOTA+）&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1580" y="1382.5" width="260" height="65" as="geometry" />
+        <mxCell id="7p6c4NWzIdbMdXv2p69n-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.042;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" target="zqZGyu0RUWcuaupxGGgW-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1710" y="1385.23" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="7p6c4NWzIdbMdXv2p69n-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.042;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="7p6c4NWzIdbMdXv2p69n-2" target="zqZGyu0RUWcuaupxGGgW-23">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="7p6c4NWzIdbMdXv2p69n-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;多任务联合优化&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;设计多任务头，结合SIoU损失函数与动态标签分配（SimOTA+）&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1494.38" y="1620" width="260" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

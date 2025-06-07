@@ -46,6 +46,9 @@
         <mxCell id="V330cHUFlvBQ7eA7vlhL-18" value="➖" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="640" y="220" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="V330cHUFlvBQ7eA7vlhL-19" value="➕" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="328" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

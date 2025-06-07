@@ -73,10 +73,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V330cHUFlvBQ7eA7vlhL-26" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;从端&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;船端&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="375" width="86" height="70" as="geometry" />
+          <mxGeometry x="1530" y="380" width="86" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="V330cHUFlvBQ7eA7vlhL-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V330cHUFlvBQ7eA7vlhL-27" target="V330cHUFlvBQ7eA7vlhL-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V330cHUFlvBQ7eA7vlhL-27" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;舵机及&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;推进器&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="380" width="86" height="70" as="geometry" />
+          <mxGeometry x="1250" y="380" width="86" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -7,7 +7,7 @@
         <mxCell id="V330cHUFlvBQ7eA7vlhL-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;岸端&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;方向盘+油门杆&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V330cHUFlvBQ7eA7vlhL-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;岸端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V330cHUFlvBQ7eA7vlhL-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;主端控制器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

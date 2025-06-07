@@ -58,6 +58,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="706" y="370" as="sourcePoint" />
             <mxPoint x="705.58" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="706" y="400" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="V330cHUFlvBQ7eA7vlhL-21" value="&lt;div style=&quot;text-wrap: wrap; font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot; class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathnormal&quot;&gt;ψ&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot; class=&quot;mopen&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot; class=&quot;mord mathnormal&quot;&gt;t)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: wrap; font-size: 16px;&quot;&gt;&lt;span class=&quot;mclose&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathnormal&quot;&gt;u&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mopen&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mord mathnormal&quot;&gt;t&lt;/span&gt;&lt;span class=&quot;mclose&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">

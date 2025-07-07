@@ -28,6 +28,9 @@
         <mxCell id="f3P27kVlysVu4TZy7n92-10" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;双极化转换&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;高斯低通滤波&lt;/span&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="340" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="f3P27kVlysVu4TZy7n92-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f3P27kVlysVu4TZy7n92-11" target="f3P27kVlysVu4TZy7n92-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="f3P27kVlysVu4TZy7n92-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;射频发射模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="800" y="370" width="120" height="60" as="geometry" />
         </mxCell>
@@ -35,7 +38,10 @@
           <mxGeometry x="660" y="320" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="f3P27kVlysVu4TZy7n92-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;射频发射模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="810" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="1020" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f3P27kVlysVu4TZy7n92-16" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;MSK相位计算&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;GMSK相位计算&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;IQ基带信号生成&lt;/span&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="900" y="320" width="140" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

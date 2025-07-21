@@ -84,9 +84,12 @@
         </mxCell>
         <mxCell id="mVCwnjx42Dn5o-bODDtw-30" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#99CCFF;entryX=0.354;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="565" y="190" as="sourcePoint" />
-            <mxPoint x="564.5" y="252" as="targetPoint" />
+            <mxPoint x="555" y="410" as="sourcePoint" />
+            <mxPoint x="554.5" y="472" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mVCwnjx42Dn5o-bODDtw-31" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;2.Data preprocessing&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#128703;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="250" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -109,15 +109,10 @@
             <mxPoint x="455" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mVCwnjx42Dn5o-bODDtw-70" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#99CCFF;" edge="1" parent="1">
+        <mxCell id="mVCwnjx42Dn5o-bODDtw-70" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#99CCFF;endSize=4;startSize=5;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="454.5" y="549.4300000000001" as="sourcePoint" />
             <mxPoint x="455" y="600" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mVCwnjx42Dn5o-bODDtw-71" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mVCwnjx42Dn5o-bODDtw-70">
-          <mxGeometry x="-0.0938" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

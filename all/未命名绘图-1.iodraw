@@ -88,8 +88,8 @@
             <mxPoint x="554.5" y="472" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mVCwnjx42Dn5o-bODDtw-31" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;2.Data preprocessing&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#128703;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="250" width="120" height="80" as="geometry" />
+        <mxCell id="mVCwnjx42Dn5o-bODDtw-31" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;3.Model Architecture&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#128703;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="470" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

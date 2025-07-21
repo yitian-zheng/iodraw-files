@@ -30,8 +30,8 @@
         </mxCell>
         <mxCell id="mVCwnjx42Dn5o-bODDtw-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="315" y="85" as="sourcePoint" />
-            <mxPoint x="315" y="130" as="targetPoint" />
+            <mxPoint x="564.5" y="75" as="sourcePoint" />
+            <mxPoint x="564.5" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

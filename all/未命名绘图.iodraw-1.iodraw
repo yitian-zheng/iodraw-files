@@ -47,7 +47,10 @@
           <mxGeometry x="884.45" y="400" width="48.11" height="24.53" as="geometry" />
         </mxCell>
         <mxCell id="TR9dRtPjgl6RsjinPebO-20" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Dos Attack&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="842" y="120" width="125" height="30" as="geometry" />
+          <mxGeometry x="855" y="130" width="107" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TR9dRtPjgl6RsjinPebO-21" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Dos Attack&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="855" y="490" width="107" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

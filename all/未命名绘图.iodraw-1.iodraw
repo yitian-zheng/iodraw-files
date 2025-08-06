@@ -70,7 +70,7 @@
         <mxCell id="TR9dRtPjgl6RsjinPebO-27" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Slave&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 18px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;Ship&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1560" y="315" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TR9dRtPjgl6RsjinPebO-28" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Slave&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 18px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;Ship&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="TR9dRtPjgl6RsjinPebO-28" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;External environment&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1560" y="424.53" width="140" height="60" as="geometry" />
         </mxCell>
       </root>

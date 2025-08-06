@@ -7,17 +7,11 @@
         <mxCell id="TR9dRtPjgl6RsjinPebO-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TR9dRtPjgl6RsjinPebO-1" target="TR9dRtPjgl6RsjinPebO-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TR9dRtPjgl6RsjinPebO-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TR9dRtPjgl6RsjinPebO-1" target="TR9dRtPjgl6RsjinPebO-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="TR9dRtPjgl6RsjinPebO-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Operator&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="154" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TR9dRtPjgl6RsjinPebO-2" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Master Steering&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Wheel&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="152.75" y="450" width="122.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TR9dRtPjgl6RsjinPebO-11" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;ESO&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="169" y="230" width="90" height="50" as="geometry" />
+          <mxGeometry x="414" y="322.5" width="122.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TR9dRtPjgl6RsjinPebO-16" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Time&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Delay&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;d(t)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="855" y="287.5" width="105" height="110" as="geometry" />

@@ -68,7 +68,7 @@
           <mxGeometry x="1302.5" y="372.5" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TR9dRtPjgl6RsjinPebO-27" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Master Steering&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Wheel&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1550" y="295" width="124" height="60" as="geometry" />
+          <mxGeometry x="1570" y="315" width="124" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

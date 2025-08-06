@@ -31,8 +31,8 @@
         <mxCell id="TR9dRtPjgl6RsjinPebO-11" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;ESO&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="164" y="240" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TR9dRtPjgl6RsjinPebO-15" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Operator&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="164" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="TR9dRtPjgl6RsjinPebO-15" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Switched Resilient Controller&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="317.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

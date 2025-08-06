@@ -67,10 +67,10 @@
           <mxGeometry x="1253.5" y="367.5" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TR9dRtPjgl6RsjinPebO-27" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Slave&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 18px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;Ship&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="970" y="500" width="140" height="70" as="geometry" />
+          <mxGeometry x="940" y="500" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TR9dRtPjgl6RsjinPebO-28" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;External environment&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="750" y="500" width="140" height="70" as="geometry" />
+          <mxGeometry x="687" y="500" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TR9dRtPjgl6RsjinPebO-29" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;ESO&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1070" y="600" width="90" height="50" as="geometry" />

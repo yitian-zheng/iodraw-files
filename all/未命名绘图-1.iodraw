@@ -56,7 +56,10 @@
           <mxGeometry x="310" y="620" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfy3d4LiEJwgHo_-ZZcR-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;syndrome_calculator&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="205" y="730" width="170" height="40" as="geometry" />
+          <mxGeometry x="140" y="720" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gfy3d4LiEJwgHo_-ZZcR-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;syndrome_calculator&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="720" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

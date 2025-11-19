@@ -98,7 +98,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DWXN9R-RUtEt9qZWIOHv-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="585" y="450" width="135" height="180" as="geometry" />
+          <mxGeometry x="585" y="455" width="135" height="180" as="geometry" />
         </mxCell>
         <mxCell id="DWXN9R-RUtEt9qZWIOHv-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d8eafd;strokeColor=#36393d;align=center;" vertex="1" parent="1">
           <mxGeometry x="601.25" y="477.5" width="108.75" height="60" as="geometry" />
@@ -108,6 +108,9 @@
         </mxCell>
         <mxCell id="DWXN9R-RUtEt9qZWIOHv-51" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;工具：线上问卷平台+线下问卷&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d8eafd;strokeColor=#36393d;align=center;" vertex="1" parent="1">
           <mxGeometry x="602.5" y="562" width="105" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="DWXN9R-RUtEt9qZWIOHv-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="70" y="465" width="135" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

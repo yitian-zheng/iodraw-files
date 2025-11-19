@@ -62,7 +62,10 @@
           <mxGeometry x="310" y="410" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DWXN9R-RUtEt9qZWIOHv-27" value="&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;张居正 IP 人格特质&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;情感共鸣 / 感知价值&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;目的地形象&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&amp;nbsp;旅游/消费意向&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
-          <mxGeometry x="317.5" y="450" width="165" height="150" as="geometry" />
+          <mxGeometry x="317.5" y="450" width="162.5" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="DWXN9R-RUtEt9qZWIOHv-28" value="基于 SOR 模型：S = IP 刺激，O = 情感与形象，R = 行为反应" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="630" width="360" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -80,7 +80,7 @@
           <mxGeometry x="268.75" y="720" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DWXN9R-RUtEt9qZWIOHv-30" value="&lt;p style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;数据分析与模型构建&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFC687;strokeColor=#BD7000;align=center;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="269.99" y="845" width="260" height="205" as="geometry" />
+          <mxGeometry x="269.99" y="845" width="290.01" height="225" as="geometry" />
         </mxCell>
         <mxCell id="DWXN9R-RUtEt9qZWIOHv-31" value="&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;形成张居正 IP 影响机制模型&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFC687;strokeColor=#BD7000;align=center;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="269.99" y="1140" width="260" height="80" as="geometry" />
@@ -152,7 +152,7 @@
           <mxGeometry x="85" y="1000" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DWXN9R-RUtEt9qZWIOHv-69" value="&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;描述性统计：样本结构、认知现状&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;EFA / CFA：IP 人格与目的地形象维度提炼与验证&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;SEM：验证“IP → 情感 → 形象 → 意向”的结构方程模型&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;聚类 / K-means：细分游客类型&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;文本挖掘：UGC 主题分析 + 情感分析，补充定量结果&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
-          <mxGeometry x="268.75" y="900" width="241.25" height="130" as="geometry" />
+          <mxGeometry x="230" y="890" width="350" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

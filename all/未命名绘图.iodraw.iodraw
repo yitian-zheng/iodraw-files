@@ -47,7 +47,7 @@
           <mxGeometry x="270" y="290" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DWXN9R-RUtEt9qZWIOHv-22" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;网络舆情初步分析（高频词、吐槽点）&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;标杆城市 IP 案例对比&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="590" y="340" width="150" height="90" as="geometry" />
+          <mxGeometry x="585" y="340" width="135" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

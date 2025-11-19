@@ -94,8 +94,8 @@
         <mxCell id="DWXN9R-RUtEt9qZWIOHv-46" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;雪王、大唐不夜城等人格化 IP 案例梳理&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d8eafd;strokeColor=#36393d;align=center;" vertex="1" parent="1">
           <mxGeometry x="75" y="595" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="DWXN9R-RUtEt9qZWIOHv-47" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;研究背景与现状&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="90" width="160" height="30" as="geometry" />
+        <mxCell id="DWXN9R-RUtEt9qZWIOHv-47" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;问卷结构设计&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="420" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

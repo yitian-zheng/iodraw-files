@@ -83,7 +83,7 @@
           <mxGeometry x="299.37" y="620" width="201.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DWXN9R-RUtEt9qZWIOHv-29" value="&lt;p style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;数据采集与样本整理&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFC687;strokeColor=#BD7000;align=center;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="268.75" y="720" width="260" height="80" as="geometry" />
+          <mxGeometry x="270" y="730" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DWXN9R-RUtEt9qZWIOHv-30" value="&lt;p style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;数据分析与模型构建&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFC687;strokeColor=#BD7000;align=center;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="268" y="845" width="262" height="275" as="geometry" />
@@ -128,13 +128,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DWXN9R-RUtEt9qZWIOHv-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="60" y="700" width="140" height="120" as="geometry" />
+          <mxGeometry x="60" y="710" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="DWXN9R-RUtEt9qZWIOHv-56" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;问卷发放与回收&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d8eafd;strokeColor=#36393d;align=center;" vertex="1" parent="1">
           <mxGeometry x="80" y="710" width="105" height="45" as="geometry" />
         </mxCell>
         <mxCell id="DWXN9R-RUtEt9qZWIOHv-57" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;访谈录音&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;与文本整理&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d8eafd;strokeColor=#36393d;align=center;" vertex="1" parent="1">
-          <mxGeometry x="80" y="770" width="105" height="45" as="geometry" />
+          <mxGeometry x="77.5" y="775" width="105" height="45" as="geometry" />
         </mxCell>
         <mxCell id="DWXN9R-RUtEt9qZWIOHv-59" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;网络UGC&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;数据抓取&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d8eafd;strokeColor=#36393d;align=center;" vertex="1" parent="1">
           <mxGeometry x="606.88" y="710" width="105" height="45" as="geometry" />

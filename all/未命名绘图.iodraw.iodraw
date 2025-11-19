@@ -76,7 +76,7 @@
         <mxCell id="DWXN9R-RUtEt9qZWIOHv-27" value="&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;张居正 IP 人格特质&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;情感共鸣 / 感知价值&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;目的地形象&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&amp;nbsp;旅游/消费意向&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
           <mxGeometry x="317.5" y="450" width="162.5" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="DWXN9R-RUtEt9qZWIOHv-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;基于 SOR 模型：S = IP 刺激，O = 情感与形象，R = 行为反应&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DWXN9R-RUtEt9qZWIOHv-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;基于 SOR 模型：S = IP 刺激，O = 情感与形象，R = 行为反应&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="299.37" y="620" width="201.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DWXN9R-RUtEt9qZWIOHv-29" value="&lt;p style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;数据采集与样本整理&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFC687;strokeColor=#BD7000;align=center;fontColor=#000000;" vertex="1" parent="1">
@@ -167,7 +167,7 @@
           <mxGeometry x="576.88" y="942.5" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DWXN9R-RUtEt9qZWIOHv-74" value="&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;1、IP 形象与人格设定策略&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;视觉形象、&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px; background-color: initial;&quot;&gt;人设标签&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;2、场景化落地策略&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;故居 + 古城 + 美食街区的 IP 打卡动线&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;3、内容与传播策略&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;短视频栏目、互动话题、表情包等&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px; background-color: initial;&quot;&gt;、与雪王/其他品牌联名的创意玩法构想&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;4、运营与保障机制&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;政府 + 文旅企业 + 学校/团队协同&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
-          <mxGeometry x="274.5" y="1530" width="247" height="280" as="geometry" />
+          <mxGeometry x="275.5" y="1350" width="247" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -79,8 +79,8 @@
         <mxCell id="DWXN9R-RUtEt9qZWIOHv-32" value="&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;策略设计与实践路径&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFC687;strokeColor=#BD7000;align=center;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="268.75" y="1040" width="260" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DWXN9R-RUtEt9qZWIOHv-42" value="d" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-          <mxGeometry x="65" y="410" width="130" height="270" as="geometry" />
+        <mxCell id="DWXN9R-RUtEt9qZWIOHv-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="62.5" y="420" width="135" height="180" as="geometry" />
         </mxCell>
         <mxCell id="DWXN9R-RUtEt9qZWIOHv-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d8eafd;strokeColor=#36393d;align=center;" vertex="1" parent="1">
           <mxGeometry x="75" y="455" width="105" height="35" as="geometry" />

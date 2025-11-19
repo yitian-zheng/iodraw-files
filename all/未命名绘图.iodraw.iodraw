@@ -16,7 +16,7 @@
         <mxCell id="DWXN9R-RUtEt9qZWIOHv-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="576.88" y="700" width="165" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="DWXN9R-RUtEt9qZWIOHv-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#ffe6cc;strokeColor=#FF8000;" edge="1" parent="1" source="DWXN9R-RUtEt9qZWIOHv-1" target="DWXN9R-RUtEt9qZWIOHv-20">
+        <mxCell id="DWXN9R-RUtEt9qZWIOHv-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#ffe6cc;strokeColor=#FF8000;strokeWidth=4;" edge="1" parent="1" source="DWXN9R-RUtEt9qZWIOHv-1" target="DWXN9R-RUtEt9qZWIOHv-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DWXN9R-RUtEt9qZWIOHv-1" value="&lt;p style=&quot;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;“张居正 IP人格化赋能荆州文旅传播的机理与路径研究”研究路线图&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFC687;strokeColor=#BD7000;align=center;fontColor=#000000;" vertex="1" parent="1">
@@ -57,6 +57,9 @@
         </mxCell>
         <mxCell id="DWXN9R-RUtEt9qZWIOHv-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;媒体报道与官方统计&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d8eafd;strokeColor=#36393d;align=center;" vertex="1" parent="1">
           <mxGeometry x="600" y="240" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DWXN9R-RUtEt9qZWIOHv-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DWXN9R-RUtEt9qZWIOHv-20" target="DWXN9R-RUtEt9qZWIOHv-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DWXN9R-RUtEt9qZWIOHv-20" value="&lt;p style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;提炼张居正 IP 结合荆州文旅的关键痛点&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFC687;strokeColor=#BD7000;align=center;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="270" y="170" width="260" height="80" as="geometry" />

@@ -112,7 +112,7 @@
         <mxCell id="DWXN9R-RUtEt9qZWIOHv-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
           <mxGeometry x="55" y="710" width="165" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="DWXN9R-RUtEt9qZWIOHv-56" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;访谈提纲设计&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d8eafd;strokeColor=#36393d;align=center;" vertex="1" parent="1">
+        <mxCell id="DWXN9R-RUtEt9qZWIOHv-56" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;问卷发放与回收&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d8eafd;strokeColor=#36393d;align=center;" vertex="1" parent="1">
           <mxGeometry x="85" y="720" width="105" height="45" as="geometry" />
         </mxCell>
       </root>

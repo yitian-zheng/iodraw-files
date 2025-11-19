@@ -65,7 +65,7 @@
           <mxGeometry x="317.5" y="450" width="162.5" height="160" as="geometry" />
         </mxCell>
         <mxCell id="DWXN9R-RUtEt9qZWIOHv-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;基于 SOR 模型：S = IP 刺激，O = 情感与形象，R = 行为反应&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="299.38" y="630" width="201.25" height="40" as="geometry" />
+          <mxGeometry x="299.37" y="620" width="201.25" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -37,6 +37,9 @@
         <mxCell id="9" value="基频（F0）" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontStyle=1;strokeWidth=2;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="312.8" y="710" width="210" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="ircK7qVSyInlA93wqZFM-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=#000000;fontStyle=1;labelBackgroundColor=default;endArrow=block;endFill=1;" edge="1" parent="1" source="11" target="15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="11" value="变异系数（CV）" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontStyle=1;strokeWidth=2;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="900.0000000000002" y="710" width="215" height="90" as="geometry" />
         </mxCell>

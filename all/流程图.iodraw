@@ -22,7 +22,7 @@
         <mxCell id="7" value="基于能量包络的音节边界&lt;div&gt;检测与强制对齐&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;fontStyle=1;strokeWidth=2;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1199.0600000000002" y="455" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="声学特征提取&#xa;（F0、时长、能量）" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2D7600;fillColor=#60a917;fontStyle=1;strokeWidth=2;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="8" value="声学特征提取" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2D7600;fillColor=#60a917;fontStyle=1;strokeWidth=2;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="739.06" y="610" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UtybizzvvZS_YpLLgWcm-59" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#000000;labelBackgroundColor=default;endArrow=block;endFill=1;fontStyle=1" parent="1" source="9" target="12" edge="1">

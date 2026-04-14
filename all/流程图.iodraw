@@ -8,19 +8,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;fontStyle=1;strokeWidth=2;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="744.06" y="100" width="200" height="60" as="geometry" />
+          <mxGeometry x="610" y="100" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4" value="音频预处理&#xa;（统一采样率、静音剔除、音频规范化）" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1;strokeWidth=2;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="744.06" y="200" width="200" height="80" as="geometry" />
+          <mxGeometry x="610" y="200" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6" value="识别结果是否与&#xa;参考文本一致？" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;fontStyle=1;strokeWidth=2;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="724.06" y="440" width="240" height="120" as="geometry" />
+          <mxGeometry x="590" y="440" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="UtybizzvvZS_YpLLgWcm-56" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=#000000;labelBackgroundColor=default;endArrow=block;endFill=1;fontStyle=1" parent="1" source="7" target="8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7" value="基于能量包络的音节边界&lt;div&gt;检测与强制对齐&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;fontStyle=1;strokeWidth=2;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1199.0600000000002" y="455" width="220" height="90" as="geometry" />
+          <mxGeometry x="1065.0000000000002" y="455" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="8" value="声学特征提取" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2D7600;fillColor=#60a917;fontStyle=1;strokeWidth=2;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="739.06" y="610" width="210" height="80" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="16" value="能量CV与重音分析" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#000000;fontStyle=1;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="850" y="940" width="180" height="80" as="geometry" />
+          <mxGeometry x="1100" y="850" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="17" value="综合偏误判定与类型归类" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#56517e;fillColor=#d0cee2;fontStyle=1;strokeWidth=2;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="741.56" y="1030" width="205" height="60" as="geometry" />
@@ -106,7 +106,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5" value="Whisper识别与&lt;div&gt;字级时间对齐&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#D6DBFC;fontStyle=1;strokeWidth=2;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="742.81" y="320" width="202.5" height="80" as="geometry" />
+          <mxGeometry x="608.75" y="320" width="202.5" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
